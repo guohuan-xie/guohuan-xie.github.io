@@ -7,18 +7,18 @@
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #f8f9fa;
   color: #333;
   line-height: 1.6;
 }
 
-/* 头部样式 */
+/* 头部区域 */
 .header {
   display: flex;
   align-items: center;
   padding: 20px;
   background-color: #ffffff;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 2px solid #ddd;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
@@ -40,23 +40,23 @@ body {
 .header-info .name {
   font-size: 26px;
   font-weight: bold;
-  margin-bottom: 5px;
+  color: #333;
 }
 
 .header-info .title,
 .header-info .advisor {
+  font-size: 16px;
   color: #666;
-  margin-bottom: 3px;
 }
 
-/* 主要内容区域 */
+/* 主要内容 */
 main {
   max-width: 900px;
   margin: 20px auto;
   padding: 0 20px;
 }
 
-/* 各个部分的公共样式 */
+/* 各部分公共样式 */
 section {
   background-color: #fff;
   margin-bottom: 20px;
@@ -73,7 +73,7 @@ section h2 {
   margin-bottom: 10px;
 }
 
-/* Publications & Education & Awards 样式 */
+/* Publications, Education, Awards 统一样式 */
 .publications ul,
 .education ul,
 .awards ul {
@@ -105,7 +105,7 @@ section h2 {
   text-align: center;
   padding: 20px;
   background-color: #fff;
-  border-top: 1px solid #ddd;
+  border-top: 2px solid #ddd;
 }
 
 .footer p {
@@ -113,7 +113,7 @@ section h2 {
   color: #666;
 }
 
-/* 图标样式 */
+/* 社交媒体图标 */
 .icon {
   width: 28px;
   height: 28px;

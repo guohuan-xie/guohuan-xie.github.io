@@ -1,95 +1,128 @@
 /* 全局样式 */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-    text-align: center;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-/* 头部区域 */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* 头部样式 */
 .header {
-    background-color: #ffffff;
-    padding: 20px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  background-color: #ffffff;
+  border-bottom: 1px solid #ddd;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .profile-pic {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    border: 3px solid #ddd;
-    margin-bottom: 15px;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 20px;
+  border: 2px solid #ddd;
 }
 
 .header-info {
-    text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
-.name {
-    font-size: 24px;
-    font-weight: bold;
-    margin: 5px 0;
+.header-info .name {
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 5px;
 }
 
-.title, .advisor {
-    font-size: 16px;
-    color: #555;
+.header-info .title,
+.header-info .advisor {
+  color: #666;
+  margin-bottom: 3px;
 }
 
 /* 主要内容区域 */
 main {
-    max-width: 800px;
-    margin: 30px auto;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    text-align: left;
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 0 20px;
 }
 
+/* 各个部分的公共样式 */
 section {
-    margin-bottom: 20px;
+  background-color: #fff;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-h2 {
-    border-bottom: 2px solid #007bff;
-    padding-bottom: 5px;
-    color: #333;
+section h2 {
+  font-size: 20px;
+  border-left: 4px solid #007acc;
+  padding-left: 10px;
+  color: #007acc;
+  margin-bottom: 10px;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
+/* Publications & Education & Awards 样式 */
+.publications ul,
+.education ul,
+.awards ul {
+  list-style-type: none;
+  padding-left: 0;
 }
 
-li {
-    margin-bottom: 10px;
-    font-size: 16px;
-    color: #333;
+.publications li,
+.education li,
+.awards li {
+  margin-bottom: 10px;
+  padding-left: 15px;
+  position: relative;
+}
+
+.publications li::before,
+.education li::before,
+.awards li::before {
+  content: "•";
+  color: #007acc;
+  font-size: 20px;
+  position: absolute;
+  left: 0;
+  top: 2px;
 }
 
 /* 底部区域 */
 .footer {
-    margin-top: 30px;
-    padding: 15px;
-    background-color: #007bff;
-    color: white;
-    text-align: center;
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  border-top: 1px solid #ddd;
 }
 
-.footer a {
-    margin: 0 10px;
-    text-decoration: none;
+.footer p {
+  margin-bottom: 10px;
+  color: #666;
 }
 
+/* 图标样式 */
 .icon {
-    width: 30px;
-    height: 30px;
-    margin: 5px;
-    vertical-align: middle;
+  width: 28px;
+  height: 28px;
+  margin: 0 5px;
+  vertical-align: middle;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.icon:hover {
+  transform: scale(1.1);
+  opacity: 0.8;
 }

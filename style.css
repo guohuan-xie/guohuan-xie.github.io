@@ -4,35 +4,45 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    margin: 40px;
+    margin: 0;
     padding: 0;
     color: #333;
+    display: flex;
+    background-color: #fff;
+    /* 设置全局背景颜色 */
 }
 
 /* --------------------
-   头部区域
+   侧边栏
 -------------------- */
-.header {
+.sidebar {
+    width: 300px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background-color: #fff;
+    /* 设置与主要内容区域相同的背景颜色 */
+    padding: 20px;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 20px;
-    margin-bottom: 30px;
 }
 
-/* 头像 */
+.profile {
+    text-align: center;
+}
+
 .profile-pic {
     width: 120px;
     height: 120px;
     border-radius: 50%;
     object-fit: cover;
-    margin-right: 20px;
+    margin-bottom: 20px;
 }
 
-/* 头部文本信息 */
-.header-info {
-    display: flex;
-    flex-direction: column;
+.profile-info {
+    margin-bottom: 20px;
 }
 
 .name {
@@ -41,21 +51,31 @@ body {
     margin-bottom: 5px;
 }
 
-.title, 
+.title,
 .advisor {
     font-size: 16px;
     color: #555;
 }
 
+.contact {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+}
+
 /* --------------------
    主要内容
 -------------------- */
-.container {
-    max-width: 800px;
-    margin: 0 auto;             /* 居中对齐 */
-    display: flex;             /* 使用flex布局 */
-    flex-direction: column;    /* 垂直排布 */
-    align-items: flex-start;   /* 左对齐 */
+.main-content {
+    margin-left: 320px;
+    /* 确保内容不被侧边栏遮挡 */
+    padding: 20px;
+    flex: 1;
 }
 
 /* --------------------
@@ -73,8 +93,10 @@ h2 {
    列表样式
 -------------------- */
 ul {
-    list-style-type: none;     /* 去掉默认圆点 */
-    padding: 0;                /* 去掉默认内边距 */
+    list-style-type: none;
+    /* 去掉默认圆点 */
+    padding: 0;
+    /* 去掉默认内边距 */
 }
 
 li {
@@ -87,21 +109,4 @@ li {
 .section {
     width: 100%;
     padding: 10px 0;
-}
-
-/* --------------------
-   底部区域
--------------------- */
-.footer {
-    margin-top: 40px;
-    text-align: center;
-    border-top: 2px solid #ddd;
-    padding-top: 20px;
-}
-
-/* 社交图标 */
-.icon {
-    width: 30px;
-    height: 30px;
-    margin: 5px;
 }

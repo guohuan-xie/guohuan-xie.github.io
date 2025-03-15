@@ -1,0 +1,126 @@
+/* 全局样式 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* 头部样式 */
+.header {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  background-color: #ffffff;
+  border-bottom: 1px solid #ddd;
+}
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 20px;
+  border: 2px solid #ddd;
+}
+
+.header-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header-info .name {
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.header-info .title,
+.header-info .advisor {
+  color: #666;
+  margin-bottom: 3px;
+}
+
+/* 主体内容 */
+main {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+
+section {
+  background-color: #fff;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+section h2 {
+  margin-bottom: 15px;
+  font-size: 20px;
+  border-left: 4px solid #007acc;
+  padding-left: 8px;
+  color: #007acc;
+}
+
+/* Publications 列表样式 */
+.publications ul,
+.education ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.publications li {
+  margin-bottom: 15px;
+}
+
+.publications li strong {
+  display: inline-block;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.publications li em {
+  color: #888;
+  font-style: normal; /* 如果不想斜体可用 normal */
+  display: block;
+  margin-bottom: 3px;
+}
+
+/* Education 列表样式 */
+.education ul li {
+  margin-bottom: 10px;
+}
+
+/* 底部样式 */
+.footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  border-top: 1px solid #ddd;
+}
+
+.footer p {
+  margin-bottom: 10px;
+  color: #666;
+}
+
+/* 图标样式 */
+.icon {
+  width: 24px;
+  height: 24px;
+  margin: 0 5px;
+  vertical-align: middle;
+  transition: transform 0.2s ease;
+}
+
+.icon:hover {
+  transform: scale(1.1);
+}

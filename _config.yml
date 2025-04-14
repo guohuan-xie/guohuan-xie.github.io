@@ -22,7 +22,7 @@ repository               : "https://github.com/guohuan-xie/guohuan-xie.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myprofile.png"
   name             : "Guohuan Xie 谢国欢" 
   pronouns         : "He/Him"
   bio              : #"Short biography for the left-hand sidebar"

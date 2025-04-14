@@ -44,7 +44,7 @@ My research interests and the learning paradigm I aim to shape primarily focus o
 
 News
 ---------------
-- *I have set up a [Blog Site](https://selen-suyue.github.io), welcome everyone to visit!*
+- *I have set up a [Blog Site](https://guohuan-xie.github.io), welcome everyone to visit!*
 
 Research Experience
 --------------

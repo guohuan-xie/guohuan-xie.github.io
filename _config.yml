@@ -73,7 +73,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   CSDN             : https://blog.csdn.net/xieguohuan
-  zhihu            : https://www.zhihu.com/people/xie-gan-7
+  zhihu            : "xie-gan-7"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

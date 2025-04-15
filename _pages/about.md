@@ -53,7 +53,7 @@ Research Experience
     <div>
         <strong>Nankai University (NKU)</strong><br>
         August 2024 -  now<br>
-        Research intern at <a href="https://mmcheng.net/"><em>OMEGA</em></a> Lab 
+        Research intern at <a href="https://mmcheng.net/"><em>Media Computing Lab</em></a> Lab 
     </div>
 </div>
 

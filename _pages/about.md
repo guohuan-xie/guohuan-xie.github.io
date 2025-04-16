@@ -85,14 +85,13 @@ Publications
 Projects
 --------
 <div style="display: flex; align-items: center;">
-    <img src="images/crosstalk.png" alt="crosstalk" width="200" height="100" style="margin-right: 20px;">
+    <img src="images/nkuassistant.jpg" alt="NKU-AI-Assistant" width="200" height="100" style="margin-right: 20px;">
     <div>
-        <strong>AgentCrossTalk: Performe a Crsosstalk between two LLM agents</strong><br>
-      This project uses the Google Gemini to create a simple chatbot application simulating two 
-      crosstalk performers performing based on user-provided topics.
+        <strong>NKU-AI-Assistant: Multi-Agent Conversational Module with RAG Integration</strong><br> 
+        The NKU-AI-Assistant is a conversational AI module designed to handle natural language interactions and complex user queries through a combination of multi-agent architecture and Retrieval-Augmented Generation (RAG) techniques. It features three specialized agents—ChainMind (a lightweight LangChain agent for casual dialogue), MetaAgent (a LangGraph-based multi-agent system for complex, multi-step reasoning), and NeoGraph (a GraphRAG agent that utilizes knowledge graphs and graph databases for structured information retrieval). Together, these agents enable dynamic task decomposition, precise information access, and robust response generation. Complementing the agents are four functional plugins—for parsing web pages, YouTube videos, uploaded documents, and translating academic literature—further enhancing the assistant’s versatility and intelligence in real-world applications.
 <br>
-      <a href="https://github.com/Selen-Suyue/Agent_CrossTalk"><em>[code]</em></a> 
-      <a href="https://lyn-siya.github.io/AgentCrosstalk/"><em>[website]</em></a>
+      <a href="https://github.com/guohuan-xie/NKU-AI-Assistant"><em>[code]</em></a> 
+      <a href="https://guohuan-xie.github.io/files/nku.mp4"><em>[demo]</em></a>
     </div>
 </div>
 

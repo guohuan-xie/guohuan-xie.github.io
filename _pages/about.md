@@ -60,24 +60,20 @@ Research Experience
 Publications
 --------------
  <div style="display: flex; align-items: center;">
-    <img src="images/dsp.png" alt="DSP" width="200" height="100" style="margin-right: 20px;">
+    <img src="images/vpssurvey.png" alt="DSP" width="200" height="100" style="margin-right: 20px;">
     <div>
-        <strong>Dense Policy: Bidirectional Autoregressive Learning of Actions</strong><br>
+        <strong>A Comprehensive Survey on Video Scene Parsing: Advances, Challenges, and Prospects</strong><br>
         <i style="font-size: 13px;">
-            <a href="https://selen-suyue.github.io" target="_blank"><strong>Yue Su</strong></a>*, 
-            <a href="https://scholar.google.com/citations?user=WurpqEMAAAAJ&hl=en" target="_blank">Xinyu Zhan</a>*, 
-            <a href="https://tonyfang.net/" target="_blank">Hongjie Fang</a>, 
-            <a href="https://hanxue.me/" target="_blank">Han Xue</a>, <br>
-            <a href="https://fang-haoshu.github.io/" target="_blank">Haoshu Fang</a>, 
-            <a href="https://dirtyharrylyl.github.io/" target="_blank">Yong-Lu Li</a>, 
-            <a href="http://mvig.org" target="_blank">Cewu Lu</a>, 
-            <a href="https://lixiny.github.io" target="_blank">Lixin Yang</a>&dagger;
+            <a href="https://guohuan-xie.github.io/" target="_blank"><strong>Guohuan Xie</strong></a>*, 
+            <a href="https://scholar.google.com/citations?user=Du1SYd0AAAAJ&hl=en" target="_blank">Syed Ariff Syed Hesham</a>*, 
+            <a href="https://scholar.google.com.tw/citations?user=XpqqcAYAAAAJ&hl=zh-CN" target="_blank">Wenya Guo</a>, 
+            <a href="https://scholar.google.com.sg/citations?user=u7Gb-qwAAAAJ&hl=en" target="_blank">Bing Li</a>, <br>
+            <a href="https://scholar.google.com/citations?user=huWpVyEAAAAJ&hl=en" target="_blank">Ming-Ming Cheng</a>, 
+            <a href="https://scholar.google.com.hk/citations?user=qd8Blw0AAAAJ&hl=zh-CN" target="_blank">Guolei Sun</a>, 
+            <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>&dagger;
         </i><br>
-        Propose Dense Policy, A bidirectional robotic autoregressive policy, which infers trajectories by gradually expanding actions from sparse keyframes, has demonstrated capabilities exceeding diffusion policies.<br>
+        This survey comprehensively reviews Video Scene Parsing (VSP), encompassing VSS, VIS, VPS, VTS, and OVVS. It analyzes architectural advances from CNNs to Transformers, addresses core challenges like temporal consistency, and provides unified benchmarks, datasets, and future research perspectives.<br>
         <a href="https://arxiv.org/abs/2503.13217"><em>[arXiv]</em></a>
-        <a href="https://selen-suyue.github.io/DspNet/"><em>[website]</em></a>
-        <a href="https://github.com/Selen-Suyue/DensePolicy"><em>[3D-code]</em></a>
-      <a href="https://github.com/Selen-Suyue/DensePolicy2D"><em>[2D-code]</em></a>
     </div>
 </div>
 <br>

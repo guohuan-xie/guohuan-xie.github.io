@@ -64,8 +64,8 @@ Publications
     <div>
         <strong>A Comprehensive Survey on Video Scene Parsing: Advances, Challenges, and Prospects</strong><br>
         <i style="font-size: 13px;">
-            <a href="https://guohuan-xie.github.io/" target="_blank"><strong>Guohuan Xie</strong></a>*, 
-            <a href="https://scholar.google.com/citations?user=Du1SYd0AAAAJ&hl=en" target="_blank">Syed Ariff Syed Hesham</a>*, 
+            <a href="https://guohuan-xie.github.io/" target="_blank"><strong>Guohuan Xie</strong></a>, 
+            <a href="https://scholar.google.com/citations?user=Du1SYd0AAAAJ&hl=en" target="_blank">Syed Ariff Syed Hesham</a>, 
             <a href="https://scholar.google.com.tw/citations?user=XpqqcAYAAAAJ&hl=zh-CN" target="_blank">Wenya Guo</a>, 
             <a href="https://scholar.google.com.sg/citations?user=u7Gb-qwAAAAJ&hl=en" target="_blank">Bing Li</a>, <br>
             <a href="https://scholar.google.com/citations?user=huWpVyEAAAAJ&hl=en" target="_blank">Ming-Ming Cheng</a>, 

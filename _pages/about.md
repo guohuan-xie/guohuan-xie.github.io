@@ -83,7 +83,8 @@ Projects
 <div style="display: flex; align-items: center;">
     <img src="images/nkuassistant.jpg" alt="NKU-AI-Assistant" width="200" height="100" style="margin-right: 20px;">
     <div>
-        <strong>NKU-AI-Assistant is a conversational AI system using multi-agent architecture and RAG. It features ChainMind, MetaAgent, and NeoGraph for dialogue, reasoning, and knowledge retrieval, respectively, supported by web, video, file parsing, and translation plugins for enhanced versatility.
+        <strong>NKU-AI-Assistant: Multi-Agent Conversational System with RAG</strong><br> 
+        NKU-AI-Assistant is a conversational AI system using multi-agent architecture and RAG. It features ChainMind, MetaAgent, and NeoGraph for dialogue, reasoning, and knowledge retrieval, respectively, supported by web, video, file parsing, and translation plugins for enhanced versatility.
 <br>
       <a href="https://github.com/guohuan-xie/NKU-AI-Assistant"><em>[code]</em></a> 
       <a href="https://guohuan-xie.github.io/files/nku.mp4"><em>[demo]</em></a>

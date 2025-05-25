@@ -40,7 +40,7 @@ My research interests and the learning paradigm I aim to shape primarily focus o
 
 - **Multimodal Understanding**: Investigating how to integrate visual and linguistic modalities to construct a perceptual feedback loop, enabling deeper scene understanding and reasoning. I am particularly interested in supporting complex perception and decision-making through cross-modal alignment in real-world tasks.
 
-- **Generative Model-driven Visual Understanding**: Exploring the use of generative models (e.g., diffusion, VAEs) for semantic segmentation and image editing, with a focus on fine-detail reconstruction, cross-modal generalization, and efficient training, aiming to enhance their applicability and robustness in visual perception systems.
+- **Generative Model-driven Visual Understanding**: Exploring the use of generative models (e.g., diffusion, VAR) for semantic segmentation and image editing, with a focus on fine-detail reconstruction, cross-modal generalization, and efficient training, aiming to enhance their applicability and robustness in visual perception systems.
 
 
 News

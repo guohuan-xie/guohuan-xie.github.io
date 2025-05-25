@@ -93,9 +93,11 @@ Projects
 
 Awards
 ---------------
-- *National Scholarship 2024, National Level. 0.4%*
+- *Meritorious Winner, International Level, 2025 Interdisciplinary Contest in Modeling (ICM).*
+- *National Scholarship 2024, 0.4%*
 - *Second Prize, National Level, 2024 China Mathematical Contest in Modeling.*
 - *Seond Prize, Provincial Level, 2023 Tianjin Mathematics Competition.*
+- *Gong-Neng Scholarship of Nankai University, 5%*
 
 
 

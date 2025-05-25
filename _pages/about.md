@@ -31,16 +31,17 @@ redirect_from:
 <h1 class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my academic base!</h1>
 </body>
 </html>
-I am a third-year undergraduate(2022-2026) at [Nankai University](https://www.nankai.edu.cn/), currently pursuing research in Computer Vision under the guidance of [Prof. Yun Liu](https://yun-liu.github.io/) at the [Media Computing Lab](https://mmcheng.net/), [Nankai University](https://www.nankai.edu.cn/). My current work centers on designing deep learning models that effectively capture spatiotemporal consistency in videos and integrate information across different modalities (e.g., visual and textual cues) to enhance scene understanding. I am particularly interested in advancing video perception systems through efficient architectures, label-efficient learning, and cross-modal alignment techniques.
+I am a third-year undergraduate(2022-2026) at [Nankai University](https://www.nankai.edu.cn/), currently pursuing research in Computer Vision under the guidance of [Prof. Yun Liu](https://yun-liu.github.io/) at the [Media Computing Lab](https://mmcheng.net/), [Nankai University](https://www.nankai.edu.cn/). My research explores multi-modal perception and generative vision models. I focus on integrating visual-language information for deeper scene understanding and reasoning, and leveraging models like diffusion and VAR for segmentation and editing, with emphasis on detail restoration, cross-modal generalization, and efficient training for practical visual perception tasks.
 <span style="color: #83a1c7;">I am looking for 2026 fall phd or master opportunities, alongside potential internships, whether in academia or industry</span>.
 
 Research Interests
 --------
 My research interests and the learning paradigm I aim to shape primarily focus on:
 
-- **Multimodal and Embodied Intelligence**: Exploring how agents can understand and interact with the world by integrating visual, linguistic, and embodied signals. I am particularly interested in enabling perception-action loops that connect vision, language, and physical environments for real-world decision making.
+- **Multimodal Understanding**: Investigating how to integrate visual and linguistic modalities to construct a perceptual feedback loop, enabling deeper scene understanding and reasoning. I am particularly interested in supporting complex perception and decision-making through cross-modal alignment in real-world tasks.
 
-- **Efficient Visual Learning**: Investigating model acceleration, lightweight architectures, and training strategies for high-performance visual understanding, with the goal of making computer vision models more scalable, deployable, and efficient in real-world applications.
+- **Generative Model-driven Visual Understanding**: Exploring the use of generative models (e.g., diffusion, VAEs) for semantic segmentation and image editing, with a focus on fine-detail reconstruction, cross-modal generalization, and efficient training, aiming to enhance their applicability and robustness in visual perception systems.
+
 
 News
 ---------------

@@ -98,7 +98,7 @@ Awards
 - *National Scholarship 2024, 0.4%*
 - *Second Prize, National Level, 2024 China Mathematical Contest in Modeling.*
 - *Seond Prize, Provincial Level, 2023 Tianjin Mathematics Competition.*
-- *Gong-Neng Scholarship of Nankai University, 5%*
+- *Gong-Neng Scholarship of Nankai University 2023, 5%*
 
 
 

@@ -74,7 +74,7 @@ Publications
             <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>&dagger;
         </i><br>
         This survey comprehensively reviews Video Scene Parsing (VSP), encompassing VSS, VIS, VPS, VTS, and OVVS. It analyzes architectural advances from CNNs to Transformers, addresses core challenges like temporal consistency, and provides unified benchmarks, datasets, and future research perspectives.<br>
-        <a href="https://guohuan-xie.github.io/"><em>[arXiv]</em></a>
+        <a href="https://arxiv.org/abs/2506.13552"><em>[arXiv]</em></a>
     </div>
 </div>
 <br>

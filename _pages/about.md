@@ -31,16 +31,18 @@ redirect_from:
 <h1 class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my academic base!</h1>
 </body>
 </html>
-I am a third-year undergraduate(2022-2026) at [Nankai University](https://www.nankai.edu.cn/), currently pursuing research in Computer Vision under the guidance of [Prof. Yun Liu](https://yun-liu.github.io/) at the [Media Computing Lab](https://mmcheng.net/), [Nankai University](https://www.nankai.edu.cn/). My research explores multi-modal perception and generative vision models. I focus on integrating visual-language information for deeper scene understanding and reasoning, and leveraging models like diffusion and VAR for segmentation and editing, with emphasis on detail restoration, cross-modal generalization, and efficient training for practical visual perception tasks.
+I am a third-year undergraduate(2022-2026) at [Nankai University](https://www.nankai.edu.cn/), pursuing my Bachelor's degree in Software Engineering. My research is  currently under the guidance of [Prof. Yun Liu](https://yun-liu.github.io/) at the [Media Computing Lab](https://mmcheng.net/), [Nankai University](https://www.nankai.edu.cn/). 
 <span style="color: #83a1c7;">I am looking for 2026 fall phd or master opportunities, alongside potential internships, whether in academia or industry</span>.
 
 Research Interests
 --------
-My research interests and the learning paradigm I aim to shape primarily focus on:
+I’m currently exploring a range of research directions, from generative models in vision to large-scale optimization problems. I believe trying diverse approaches helps me better understand the field and gradually refine my long-term focus. Currently, I focus on the following directions:
 
-- **Multimodal Understanding**: Investigating how to integrate visual and linguistic modalities to construct a perceptual feedback loop, enabling deeper scene understanding and reasoning. I am particularly interested in supporting complex perception and decision-making through cross-modal alignment in real-world tasks.
+- **Few-shot Semantic Segmentation**:  Leveraging models such as diffusion and VAR to improve semantic segmentation and image editing, with emphasis on detail restoration, controllable generation, and generalization.
 
-- **Generative Model-driven Visual Understanding**: Exploring the use of generative models (e.g., diffusion, VAR) for semantic segmentation and image editing, with a focus on fine-detail reconstruction, cross-modal generalization, and efficient training, aiming to enhance their applicability and robustness in visual perception systems.
+- **Few-shot Semantic Segmentation**: Developing methods for segmentation with limited supervision, using techniques like metric learning, prompt tuning, and cross-modal prior transfer to enhance data efficiency.
+
+- **Large-scale Optimization**: Applying machine learning and optimization techniques to address complex real-world problems, aiming to improve computational efficiency, structural consistency, and scalability.
 
 
 News

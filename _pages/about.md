@@ -38,7 +38,7 @@ Research Interests
 --------
 I’m currently exploring a range of research directions, from generative models in vision to large-scale optimization problems. I believe trying diverse approaches helps me better understand the field and gradually refine my long-term focus. Currently, I focus on the following directions:
 
-- **Few-shot Semantic Segmentation**:  Leveraging models such as diffusion and VAR to improve semantic segmentation and image editing, with emphasis on detail restoration, controllable generation, and generalization.
+- **Generative Models for Controllable and Generalizable Image Understanding**:  Leveraging models such as diffusion and VAR to improve semantic segmentation and image editing, with emphasis on detail restoration, controllable generation, and generalization.
 
 - **Few-shot Semantic Segmentation**: Developing methods for segmentation with limited supervision, using techniques like metric learning, prompt tuning, and cross-modal prior transfer to enhance data efficiency.
 

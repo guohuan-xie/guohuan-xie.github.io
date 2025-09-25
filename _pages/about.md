@@ -32,7 +32,6 @@ redirect_from:
 </body>
 </html>
 I am a fourth-year undergraduate(2022-2026) at [Nankai University](https://www.nankai.edu.cn/), pursuing my Bachelor's degree in Software Engineering. My research is  currently under the guidance of [Prof. Yun Liu](https://yun-liu.github.io/) at the [Media Computing Lab](https://mmcheng.net/), [Nankai University](https://www.nankai.edu.cn/). 
-<span style="color: #83a1c7;">I am looking for 2026 fall phd or master opportunities, alongside potential internships, whether in academia or industry</span>.
 
 Research Interests
 --------

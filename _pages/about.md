@@ -31,17 +31,17 @@ redirect_from:
 <h1 class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my academic base!</h1>
 </body>
 </html>
-I am a fourth-year undergraduate(2022-2026) at [Nankai University](https://www.nankai.edu.cn/), pursuing my Bachelor's degree in Software Engineering. My research is  currently under the guidance of [Prof. Yun Liu](https://yun-liu.github.io/) at the [Media Computing Lab](https://mmcheng.net/), [Nankai University](https://www.nankai.edu.cn/). 
+I am a fourth-year undergraduate(2022-2026) at [Nankai University](https://www.nankai.edu.cn/), pursuing my Bachelor's degree in Software Engineering. My research is  currently under the guidance of [Prof. Yun Liu](https://yun-liu.github.io/) at the [Media Computing Lab](https://mmcheng.net/), [Nankai University](https://www.tsinghua.edu.cn/). I am also an incoming graduate student at the [iMoon Lab](https://www.gaoyue.org/), where I will be advised by Prof. [Yue Gao](https://www.thss.tsinghua.edu.cn/faculty/gaoyue.htm).
 
 Research Interests
 --------
-I’m currently exploring a range of research directions, from generative models in vision to large-scale optimization problems. I believe trying diverse approaches helps me better understand the field and gradually refine my long-term focus. Currently, I focus on the following directions:
+I’m currently exploring a range of research directions, from generative models in vision to hypergraph learing. I believe trying diverse approaches helps me better understand the field and gradually refine my long-term focus. Currently, I focus on the following directions:
 
 - **Generative Models for Controllable and Generalizable Image Understanding**:  Leveraging models such as diffusion and VAR to improve semantic segmentation and image editing, with emphasis on detail restoration, controllable generation, and generalization.
 
 - **Few-shot Semantic Segmentation**: Developing methods for segmentation with limited supervision, using techniques like metric learning, prompt tuning, and cross-modal prior transfer to enhance data efficiency.
 
-- **Large-scale Optimization**: Applying machine learning and optimization techniques to address complex real-world problems, aiming to improve computational efficiency, structural consistency, and scalability.
+- **Hypergraph Learning**: Leveraging hypergraph structures to model high-order relationships among entities, aiming to enhance representation capability, structural consistency, and scalability in complex learning systems.
 
 
 News

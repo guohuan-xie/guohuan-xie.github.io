@@ -58,6 +58,14 @@ Research Experience
         Research intern at <a href="https://mmcheng.net/"><em>Media Computing Lab</em></a>
     </div>
 </div>
+<div style="display: flex; align-items: center;">
+    <img src="images/tsinghua.png" alt="Tsinghua logo" width="60" height="60" style="margin-right: 20px;">
+    <div>
+        <strong>Tsinghua University (NKU)</strong><br>
+        October 2025 -  now<br>
+        Research intern at <a href="https://www.gaoyue.org/"><em>iMoon Lab</em></a>
+    </div>
+</div>
 
 Publications
 --------------
@@ -96,9 +104,8 @@ Projects
 Awards
 ---------------
 - *Meritorious Winner, International Level, 2025 Interdisciplinary Contest in Modeling (ICM).*
-- *National Scholarship 2024, 0.4%*
+- *National Scholarship $/times 2$ 2024, 0.4%*
 - *Second Prize, National Level, 2024 China Mathematical Contest in Modeling.*
-- *Seond Prize, Provincial Level, 2023 Tianjin Mathematics Competition.*
 - *Gong-Neng Scholarship of Nankai University 2023, 5%*
 
 

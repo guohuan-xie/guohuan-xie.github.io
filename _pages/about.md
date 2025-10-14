@@ -61,7 +61,7 @@ Research Experience
 <div style="display: flex; align-items: center;">
     <img src="images/tsinghua.png" alt="Tsinghua logo" width="60" height="60" style="margin-right: 20px;">
     <div>
-        <strong>Tsinghua University (NKU)</strong><br>
+        <strong>Tsinghua University (THU)</strong><br>
         October 2025 -  now<br>
         Research intern at <a href="https://www.gaoyue.org/"><em>iMoon Lab</em></a>
     </div>

@@ -114,9 +114,11 @@ Projects
 
 Awards
 ---------------
-- *National Scholarship ×2 (2024&2025), 1/130,1/130*
-- *Second Prize, National Level, 2024 China Mathematical Contest in Modeling.*
-- *Gong-Neng Scholarship of Nankai University 2023, 5%*
+- *2025: BYD Scholarship – 10,000 CNY*
+- *2025:National Scholarship(1/130, Top 0.8%) – 10,000 CNY*
+- *2024:National Scholarship(1/127, Top 0.8%) – 10,000 CNY*
+- *2024:Second Prize, National Level, China Mathematical Contest in Modeling.*
+- *2023:Gong-Neng Scholarship of Nankai University(5%) - 5000CNY*
 
 
 

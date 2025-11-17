@@ -101,6 +101,17 @@ Projects
     </div>
 </div>
 
+<div style="display: flex; align-items: center;">
+    <img src="images/Immortal_Verse.png" alt="Immortal Verse: The Journey of Li Bai" width="200" height="100" style="margin-right: 20px;">
+    <div>
+        <strong>Immortal Verse: The Journey of Li Bai</strong><br> 
+       Immortal Verse is an RPG set in Tang-dynasty China, blending history, poetry, and AI-driven interaction. Players explore landscapes, complete quests, engage in battles, learn classical poetry, and generate poems with AI, enjoying immersive cultural experiences and intelligent dialogues centered on poet Li Bai.
+<br>
+      <a href="https://github.com/xiemol/-Poetry-fairy-chanting"><em>[code]</em></a> 
+      <a href="https://guohuan-xie.github.io/files/shixianyin.mp4"><em>[demo]</em></a>
+    </div>
+</div>
+
 Awards
 ---------------
 - *Meritorious Winner, International Level, 2025 Interdisciplinary Contest in Modeling (ICM).*

@@ -35,13 +35,14 @@ I am a fourth-year undergraduate(2022-2026) at [Nankai University](https://www.n
 
 Research Interests
 --------
-I’m currently exploring a range of research directions, from generative models in vision to hypergraph learing. I believe trying diverse approaches helps me better understand the field and gradually refine my long-term focus. Currently, I focus on the following directions:
+My current research focuses on three key areas:
 
-- **Generative Models for Controllable and Generalizable Image Understanding**:  Leveraging models such as diffusion and VAR to improve semantic segmentation and image editing, with emphasis on detail restoration, controllable generation, and generalization.
+- **Image Generation and Editing**: Exploring generative models such as diffusion and VAEs for controllable image generation, editing, and detail restoration, with an emphasis on improving model generalization.
 
-- **Few-shot Semantic Segmentation**: Developing methods for segmentation with limited supervision, using techniques like metric learning, prompt tuning, and cross-modal prior transfer to enhance data efficiency.
+- **Few-shot Learning**: Developing methods for efficient learning from limited data, focusing on techniques like metric learning, prompt tuning, and cross-modal transfer to enhance data efficiency.
 
-- **Hypergraph Learning**: Leveraging hypergraph structures to model high-order relationships among entities, aiming to enhance representation capability, structural consistency, and scalability in complex learning systems.
+- **Hypergraph Learning**: Investigating hypergraph-based models to capture high-order relationships and improve representation power, structural consistency, and scalability in complex learning systems.
+
 
 
 News

@@ -37,7 +37,7 @@ Research Interests
 --------
 My current research focuses on three key areas:
 
-- **Image Generation and Editing**: Exploring generative models such as diffusion and VAEs for controllable image generation, editing, and detail restoration, with an emphasis on improving model generalization.
+- **Image Generation and Editing**: Exploring generative models such as Stable Diffusion for controllable image generation, editing, and detail restoration, with an emphasis on improving model generalization.
 
 - **Few-shot Learning**: Developing methods for efficient learning from limited data, focusing on techniques like metric learning, prompt tuning, and cross-modal transfer to enhance data efficiency.
 

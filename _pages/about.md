@@ -115,7 +115,7 @@ Projects
 
 Awards
 ---------------
-- *2025:Migu M-Zone Most Valuable Application Award(3/1143) – 50,000 CNY*
+- *2025:Migu M-Zone Most Valuable Application Award(3/1143, Top 0.3%) – 50,000 CNY*
 - *2025:BYD Scholarship – 10,000 CNY*
 - *2025:National Scholarship(1/130, Top 0.8%) – 10,000 CNY*
 - *2024:National Scholarship(1/127, Top 0.8%) – 10,000 CNY*

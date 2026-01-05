@@ -31,7 +31,7 @@ redirect_from:
 <h1 class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my academic base!</h1>
 </body>
 </html>
-I am a fourth-year undergraduate(2022-2026) at [Nankai University](https://www.nankai.edu.cn/), pursuing my Bachelor's degree in Software Engineering. My research is  currently under the guidance of [Prof. Yun Liu](https://yun-liu.github.io/) at the [Media Computing Lab](https://mmcheng.net/), [Nankai University](https://www.tsinghua.edu.cn/). I am also an incoming graduate student at the [iMoon Lab](https://www.gaoyue.org/), where I will be advised by Prof. [Yue Gao](https://www.thss.tsinghua.edu.cn/faculty/gaoyue.htm).
+I am a fourth-year undergraduate(2022-2026) at [Nankai University](https://www.nankai.edu.cn/), pursuing my Bachelor's degree in Software Engineering. My research is  currently under the guidance of [Prof. Mingming Cheng](https://mmcheng.net/) [Prof. Yun Liu](https://yun-liu.github.io/) at the [Media Computing Lab](https://mmcheng.net/), [Nankai University](https://www.tsinghua.edu.cn/). I am also an incoming graduate student at the [iMoon Lab](https://www.gaoyue.org/), where I will be advised by Prof. [Yue Gao](https://www.thss.tsinghua.edu.cn/faculty/gaoyue.htm).
 
 Research Interests
 --------

@@ -14,11 +14,11 @@ main:
   - title: "Talks"
     url: /
 
-  - title: "Teaching"
-    url: /
+  # - title: "Teaching"
+  #   url: /
     
-  - title: "Portfolio"
-    url: /
+  # - title: "Portfolio"
+  #   url: /
         
   - title: "Blog Posts"
     url: https://blog.csdn.net/xieguohuan?spm=1000.2115.3001.5343

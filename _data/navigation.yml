@@ -23,8 +23,6 @@ main:
   - title: "Blog Posts"
     url: https://blog.csdn.net/xieguohuan?spm=1000.2115.3001.5343
     
-  - title: "CV-En"
-    url: /files/CV_en.pdf
     
   # - title: "CV"
   #   url: /cv-json/

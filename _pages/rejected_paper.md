@@ -7,4 +7,4 @@ redirect_from:
   - /rejected
 ---
 
-* **A Comprehensive Survey on Video Scene Parsing: Advances, Challenges, and Prospects**  *Previously submitted to IEEE TPAMI but not accepted.*
+* **A Comprehensive Survey on Video Scene Parsing: Advances, Challenges, and Prospects**  *Previously submitted to IEEE TPAMI but not accepted.* 2025.08

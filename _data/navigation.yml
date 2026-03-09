@@ -24,6 +24,6 @@ main:
     url: https://blog.csdn.net/xieguohuan?spm=1000.2115.3001.5343
     
     
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "CV"
+    url: /cv.pdf
     

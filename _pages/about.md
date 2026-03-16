@@ -115,7 +115,7 @@ Projects
 
 Academic Service
 --------
-- *reviewer:IJCAI,ICMR*
+- *reviewer:IJCAI2026,ICMR2026*
 
 Awards
 ---------------

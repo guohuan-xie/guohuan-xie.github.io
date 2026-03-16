@@ -113,6 +113,10 @@ Projects
     </div>
 </div>
 
+Academic Service
+--------
+- *reviewer:IJCAI,ICMR*
+
 Awards
 ---------------
 - *2025:Migu M-Zone Most Valuable Application Award(3/1143, Top 0.3%) – 50,000 CNY*

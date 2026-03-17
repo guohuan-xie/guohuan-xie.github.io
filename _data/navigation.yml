@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: https://openreview.net/forum?id=zkDqUCjY95&noteId=P4IMDRQaRG/
 
-  - title: "Rejected Papers"
-    url: /rejected_paper/
+  # - title: "Rejected Papers"
+  #   url: /rejected_paper/
 
   # - title: "Teaching"
   #   url: /

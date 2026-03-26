@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+  <title id="title">Syn4Seg Paper Cover</title>
+  <desc id="desc">Placeholder cover image for the Syn4Seg paper.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" rx="32" fill="url(#bg)"/>
+  <circle cx="1030" cy="120" r="110" fill="#60a5fa" fill-opacity="0.22"/>
+  <circle cx="160" cy="500" r="140" fill="#93c5fd" fill-opacity="0.16"/>
+  <text x="72" y="110" fill="#93c5fd" font-family="Arial, sans-serif" font-size="34" font-weight="700">GFSS / Synthetic Data / Segmentation</text>
+  <text x="72" y="220" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="700">Make It Up: Fake Images,</text>
+  <text x="72" y="290" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="700">Real Gains in Generalized</text>
+  <text x="72" y="360" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="700">Few-shot Semantic Segmentation</text>
+  <text x="72" y="455" fill="#dbeafe" font-family="Arial, sans-serif" font-size="30">Syn4Seg improves novel-class coverage with diverse synthesis,</text>
+  <text x="72" y="500" fill="#dbeafe" font-family="Arial, sans-serif" font-size="30">adaptive pseudo-label refinement, and boundary-aware updates.</text>
+</svg>

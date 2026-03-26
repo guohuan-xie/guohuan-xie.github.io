@@ -71,7 +71,7 @@ Research Experience
 Publications
 --------------
 <div style="display: flex; align-items: center;">
-    <img src="images/vpssurvey.png" alt="Syn4Seg" width="200" height="100" style="margin-right: 20px;">
+    <img src="images/syn4seg.svg" alt="Syn4Seg" width="200" height="100" style="margin-right: 20px;">
     <div>
         <strong>Make It Up: Fake Images, Real Gains in Generalized Few-shot Semantic Segmentation</strong><br>
         <i style="font-size: 13px;">
@@ -81,7 +81,7 @@ Publications
             <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>
         </i><br>
         We propose Syn4Seg, a generation-enhanced framework for generalized few-shot semantic segmentation that expands novel-class coverage with diverse synthetic images, support-guided pseudo-label enhancement, and SAM-based boundary refinement. Experiments on PASCAL-5i and COCO-20i show consistent improvements in both 1-shot and 5-shot settings while maintaining strong base-class performance.<br>
-        <a href="https://arxiv.org/abs/2506.13552"><em>[arXiv]</em>
+        <em>[arXiv]</em>
     </div>
 </div>
 <br>

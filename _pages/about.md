@@ -71,7 +71,7 @@ Research Experience
 Publications
 --------------
 <div style="display: flex; align-items: center;">
-    <img src="images/syn4seg.svg" alt="Syn4Seg" width="200" height="100" style="margin-right: 20px;">
+    <img src="images/syn4seg.png" alt="Syn4Seg" width="200" height="100" style="margin-right: 20px;">
     <div>
         <strong>Make It Up: Fake Images, Real Gains in Generalized Few-shot Semantic Segmentation</strong><br>
         <i style="font-size: 13px;">

@@ -81,7 +81,7 @@ Publications
             <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>
         </i><br>
         We propose Syn4Seg, a generation-enhanced framework for generalized few-shot semantic segmentation that expands novel-class coverage with diverse synthetic images, support-guided pseudo-label enhancement, and SAM-based boundary refinement. Experiments on PASCAL-5i and COCO-20i show consistent improvements in both 1-shot and 5-shot settings while maintaining strong base-class performance.<br>
-        <em>[arXiv]</em>
+        <a href="https://arxiv.org/pdf/2603.27206"><em>[arXiv]</em></a>
     </div>
 </div>
 <br>

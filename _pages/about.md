@@ -76,7 +76,7 @@ Publications
         <strong>Make It Up: Fake Images, Real Gains in Generalized Few-shot Semantic Segmentation</strong><br>
         <i style="font-size: 13px;">
             <a href="https://guohuan-xie.github.io/" target="_blank"><strong>Guohuan Xie</strong></a>,
-            Xin He, Dingying Fan, Le Zhang,
+            <a href="https://openreview.net/profile?id=~Xin_He21" target="_blank">Xin He</a>, <a href="https://openreview.net/profile?id=~Dingying_Fan1" target="_blank">Dingying Fan</a>, <a href="https://openreview.net/profile?id=~Le_Zhang3" target="_blank">Le Zhang</a>,
             <a href="https://mmcheng.net/" target="_blank">Ming-Ming Cheng</a>, and
             <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>
         </i><br>

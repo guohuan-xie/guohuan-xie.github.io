@@ -80,7 +80,7 @@ Publications
             <a href="https://openreview.net/profile?id=~Dingying_Fan1" target="_blank">Dingying Fan</a>,
             <a href="https://openreview.net/profile?id=~Le_Zhang3" target="_blank">Le Zhang</a>,
             <a href="https://mmcheng.net/" target="_blank">Ming-Ming Cheng</a>, and
-            <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>&dagger
+            <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>&dagger;
         </i><br>
         We propose Syn4Seg, a generation-enhanced framework for generalized few-shot semantic segmentation that expands novel-class coverage with diverse synthetic images, support-guided pseudo-label enhancement, and SAM-based boundary refinement. Experiments on PASCAL-5i and COCO-20i show consistent improvements in both 1-shot and 5-shot settings while maintaining strong base-class performance.<br>
         <a href="https://arxiv.org/pdf/2603.27206"><em>[arXiv]</em></a>

@@ -76,9 +76,11 @@ Publications
         <strong>Make It Up: Fake Images, Real Gains in Generalized Few-shot Semantic Segmentation</strong><br>
         <i style="font-size: 13px;">
             <a href="https://guohuan-xie.github.io/" target="_blank"><strong>Guohuan Xie</strong></a>,
-            <a href="https://openreview.net/profile?id=~Xin_He21" target="_blank">Xin He</a>, <a href="https://openreview.net/profile?id=~Dingying_Fan1" target="_blank">Dingying Fan</a>, <a href="https://openreview.net/profile?id=~Le_Zhang3" target="_blank">Le Zhang</a>,
+            <a href="https://openreview.net/profile?id=~Xin_He21" target="_blank">Xin He</a>,
+            <a href="https://openreview.net/profile?id=~Dingying_Fan1" target="_blank">Dingying Fan</a>,
+            <a href="https://openreview.net/profile?id=~Le_Zhang3" target="_blank">Le Zhang</a>,
             <a href="https://mmcheng.net/" target="_blank">Ming-Ming Cheng</a>, and
-            <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>
+            <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>&dagger
         </i><br>
         We propose Syn4Seg, a generation-enhanced framework for generalized few-shot semantic segmentation that expands novel-class coverage with diverse synthetic images, support-guided pseudo-label enhancement, and SAM-based boundary refinement. Experiments on PASCAL-5i and COCO-20i show consistent improvements in both 1-shot and 5-shot settings while maintaining strong base-class performance.<br>
         <a href="https://arxiv.org/pdf/2603.27206"><em>[arXiv]</em></a>
@@ -95,7 +97,7 @@ Publications
             <a href="https://scholar.google.com.tw/citations?user=XpqqcAYAAAAJ&hl=zh-CN" target="_blank">Wenya Guo</a>, 
             <a href="https://scholar.google.com.sg/citations?user=u7Gb-qwAAAAJ&hl=en" target="_blank">Bing Li</a>, <br>
             <a href="https://scholar.google.com/citations?user=huWpVyEAAAAJ&hl=en" target="_blank">Ming-Ming Cheng</a>, 
-            <a href="https://scholar.google.com.hk/citations?user=qd8Blw0AAAAJ&hl=zh-CN" target="_blank">Guolei Sun</a>, 
+            <a href="https://scholar.google.com.hk/citations?user=qd8Blw0AAAAJ&hl=zh-CN" target="_blank">Guolei Sun</a>, and
             <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>&dagger;
         </i><br>
         This survey comprehensively reviews Video Scene Parsing (VSP), encompassing VSS, VIS, VPS, VTS, and OVVS. It analyzes architectural advances from CNNs to Transformers, addresses core challenges like temporal consistency, and provides unified benchmarks, datasets, and future research perspectives.<br>

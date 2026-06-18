@@ -21,7 +21,7 @@ main:
   #   url: /
         
   - title: "Blog Posts"
-    url: https://blog.csdn.net/xieguohuan?spm=1000.2115.3001.5343
+    url: /blog/
     
     
   - title: "CV"

@@ -144,7 +144,7 @@ Projects 💻
         2025 Migu M-Zone Most Valuable Application Award (3/1143, Top 0.3%) – 50,000 CNY.<br>
       <a href="https://github.com/xiemol/-Poetry-fairy-chanting"><em>[code]</em></a> 
       <a href="https://guohuan-xie.github.io/files/shixianyin.mp4"><em>[demo]</em></a>
-      <a href="https://mp.weixin.qq.com/s/HdM3v6LVJkctRbGEvhhE_g"><em>[report]</em></a>
+      <a href="https://epaper.tianjinwe.com/tjrb/html/2025-12/08/content_143080_2904075.htm"><em>[report]</em></a>
     </div>
 </div>
 

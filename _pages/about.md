@@ -43,7 +43,7 @@ Research Interests
 
 News
 ---------------
-- 2026.06 *I graduated from Nankai University. I was also featured in the university's [admissions publicity](https://mp.weixin.qq.com/s/ZD2FKxRdWY3RG6JCJP9aEg), shared the same promotional post with Zhang Yiming (Founder of ByteDance). A surreal way to wrap up my undergraduate years! 🎓*
+* 2026.06 *I graduated from Nankai University. I was also featured in the university's [admissions publicity](https://mp.weixin.qq.com/s/ZD2FKxRdWY3RG6JCJP9aEg), where I appeared in the same promotional post as Zhang Yiming, founder of ByteDance. A surreal way to wrap up my undergraduate years! 🎓*
 - 2025.05 *I have set up a [Blog Site](https://guohuan-xie.github.io), welcome everyone to visit!*
 
 
@@ -148,8 +148,7 @@ Awards
 ---------------
 - *2026: Outstanding Graduate of Nankai University*
 - *2025:BYD Scholarship – 10,000 CNY*
-- *2025:National Scholarship(1/130, Top 0.8%) – 10,000 CNY*
-- *2024:National Scholarship(1/127, Top 0.8%) – 10,000 CNY*
+- *2024,2025:National Scholarship(1/127, 1/130, Top 0.8%) – 10,000 CNY*
 - *2024:Second Prize, National Level, China Mathematical Contest in Modeling（Top 2%）*
 - *2023:Gong-Neng Scholarship of Nankai University(5%) - 5000CNY*
 - *2023,2024,2025: Outstanding Student of Nankai University*

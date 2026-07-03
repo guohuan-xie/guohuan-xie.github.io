@@ -8,16 +8,14 @@ redirect_from:
 <html> 
 <head>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
-        @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
-        @import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
-        body {
-            background-color:	 #FFFFFF;
-            font-family: 'Arial Rounded MT Bold', 'Verdana', sans-serif;
+        body, .page__content {
+            background-color: #FFFFFF;
+            font-family: "Noto Serif", "Noto Serif SC", "Times New Roman", Times, Georgia, serif;
             font-size: 15px;
         }
         .main-heading {
-            font-family: 'Permanent Marker', cursive;
+            font-family: "Noto Serif", "Noto Serif SC", "Times New Roman", Times, Georgia, serif;
+            font-weight: 700;
             text-align: center;
             color: #ca6f6f;
         }
@@ -71,8 +69,10 @@ Research Experience
 Publications
 --------------
 <div style="display: flex; align-items: center;">
-    <span style="position: absolute; top: 0; left: 0; background-color: #2b6cb0; color: #fff; font-size: 11px; font-weight: bold; padding: 4px 8px; line-height: 1.2; z-index: 1;">under review</span>
-    <img src="images/syn4seg.png" alt="Syn4Seg" width="200" height="100" style="margin-right: 20px;">
+    <div style="position: relative; margin-right: 20px; flex-shrink: 0;">
+        <span style="position: absolute; top: 0; left: 0; background-color: #2b6cb0; color: #fff; font-size: 11px; font-weight: bold; padding: 4px 8px; line-height: 1.2; z-index: 1;">under review</span>
+        <img src="images/syn4seg.png" alt="Syn4Seg" width="200" height="100">
+    </div>
     <div>
         <strong>Make It Up: Fake Images, Real Gains in Generalized Few-shot Semantic Segmentation</strong><br>
         <i style="font-size: 13px;">
@@ -82,7 +82,7 @@ Publications
             <a href="https://openreview.net/profile?id=~Le_Zhang3" target="_blank">Le Zhang</a>,
             <a href="https://mmcheng.net/" target="_blank">Ming-Ming Cheng</a>, and
             <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>&dagger;
-        </i>
+        </i><br>
         <a href="https://arxiv.org/pdf/2603.27206"><em>[arXiv]</em></a><em>[Code]</em><em>[Demo]</em>
     </div>
 </div>
@@ -102,7 +102,7 @@ Publications
             <a href="https://scholar.google.com/citations?user=huWpVyEAAAAJ&hl=en" target="_blank">Ming-Ming Cheng</a>, 
             <a href="https://scholar.google.com.hk/citations?user=qd8Blw0AAAAJ&hl=zh-CN" target="_blank">Guolei Sun</a>, and
             <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>&dagger;
-        </i>
+        </i><br>
         <a href="https://arxiv.org/abs/2506.13552"><em>[arXiv]</em></a><em>[Code]</em><em>[Demo]</em>
     </div>
 </div>

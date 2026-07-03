@@ -89,7 +89,7 @@ Publications
 <br>
  <div style="display: flex; align-items: center;">
     <div style="position: relative; margin-right: 20px; flex-shrink: 0;">
-        <span style="position: absolute; top: 0; left: 0; background-color: #2b6cb0; color: #fff; font-size: 11px; font-weight: bold; padding: 4px 8px; line-height: 1.2; z-index: 1;">CSUR under review</span>
+        <span style="position: absolute; top: 0; left: 0; background-color: #2b6cb0; color: #fff; font-size: 11px; font-weight: bold; padding: 4px 8px; line-height: 1.2; z-index: 1;">under review</span>
         <img src="images/vpssurvey.png" alt="VSP Survey" width="200" height="100">
     </div>
     <div>
@@ -98,7 +98,7 @@ Publications
             <a href="https://guohuan-xie.github.io/" target="_blank"><strong>Guohuan Xie</strong></a>, 
             <a href="https://scholar.google.com/citations?user=Du1SYd0AAAAJ&hl=en" target="_blank">Syed Ariff Syed Hesham</a>, 
             <a href="https://scholar.google.com.tw/citations?user=XpqqcAYAAAAJ&hl=zh-CN" target="_blank">Wenya Guo</a>, 
-            <a href="https://scholar.google.com.sg/citations?user=u7Gb-qwAAAAJ&hl=en" target="_blank">Bing Li</a>, <br>
+            <a href="https://scholar.google.com.sg/citations?user=u7Gb-qwAAAAJ&hl=en" target="_blank">Bing Li</a>,
             <a href="https://scholar.google.com/citations?user=huWpVyEAAAAJ&hl=en" target="_blank">Ming-Ming Cheng</a>, 
             <a href="https://scholar.google.com.hk/citations?user=qd8Blw0AAAAJ&hl=zh-CN" target="_blank">Guolei Sun</a>, and
             <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>&dagger;

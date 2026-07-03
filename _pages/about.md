@@ -78,9 +78,9 @@ Publications
         <i style="font-size: 13px;">
             <a href="https://mengqi-lei.github.io/" target="_blank">Mengqi Lei</a>,
             <a href="https://guohuan-xie.github.io/" target="_blank"><strong>Guohuan Xie</strong></a>,
-            Shihui Ying,
-            Shaoyi Du,
-            Jun-Hai Yong,
+            <a href="https://scholar.google.com/citations?user=dU6ePjIAAAAJ&hl=en" target="_blank">Shihui Ying</a>,
+            <a href="https://scholar.google.com/citations?user=r2bk4sQAAAAJ&hl=en" target="_blank">Shaoyi Du</a>,
+            <a href="https://scholar.google.com/citations?user=pBCA92wAAAAJ&hl=zh-CN" target="_blank">Jun-Hai Yong</a>,
             Siqi Li, and
             <a href="https://www.gaoyue.org/" target="_blank">Yue Gao</a>
         </i><br>

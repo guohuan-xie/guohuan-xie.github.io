@@ -316,6 +316,58 @@ body:hover .visually-hidden button {
   .fa-xing-square {
     color: $xing-color;
   }
+
+  .fa-zhihu {
+    color: #0084ff;
+  }
+
+  .fa-google-scholar {
+    color: #4285f4;
+  }
+
+  .ai-google-scholar {
+    color: #4285f4;
+  }
+
+  .ai-arxiv {
+    color: #b31b1b;
+  }
+
+  .ai-semantic-scholar {
+    color: #1857b6;
+  }
+}
+
+/* Sidebar author links: keep text neutral, color icons only */
+.author__urls.social-icons {
+  a {
+    color: var(--global-text-color);
+  }
+
+  .fa-location-dot {
+    color: #e67e22;
+  }
+
+  .fa-building-columns {
+    color: #8b1a4a;
+  }
+
+  .fa-envelope {
+    color: #ea4335;
+  }
+
+  .ai-google-scholar,
+  .fa-google-scholar {
+    color: #4285f4;
+  }
+
+  .fa-github {
+    color: #181717;
+  }
+
+  .fa-zhihu {
+    color: #0084ff;
+  }
 }
 
 

@@ -31,23 +31,23 @@ redirect_from:
 <h1 class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my academic base!</h1>
 </body>
 </html>
-I am a fourth-year undergraduate(2022-2026) at [Nankai University](https://www.nankai.edu.cn/), pursuing my Bachelor's degree in Software Engineering. My research is  currently under the guidance of [Prof. Mingming Cheng](https://mmcheng.net/) and [Prof. Yun Liu](https://yun-liu.github.io/) at the [Media Computing Lab](https://mmcheng.net/), [Nankai University](https://www.tsinghua.edu.cn/). I am also an incoming graduate student at the [iMoon Lab](https://www.gaoyue.org/), where I will be advised by Prof. [Yue Gao](https://www.thss.tsinghua.edu.cn/faculty/gaoyue.htm).
+I am a first-year graduate student (2026–2028) at [Tsinghua University](https://www.tsinghua.edu.cn/), pursuing my Master's degree in Software Engineering. I am advised by Prof. [Yue Gao](https://www.thss.tsinghua.edu.cn/faculty/gaoyue.htm) at the [iMoon Lab](https://www.gaoyue.org/).
+
 
 Research Interests
 --------
-My current research focuses on three key areas:
+* **Multimodal Large Models**: Exploring multimodal foundation models that integrate visual, textual, and other modalities, with a focus on cross-modal understanding, reasoning, and generation.
 
-- **Image Generation and Editing**: Exploring generative models such as Stable Diffusion for controllable image generation, editing, and detail restoration, with an emphasis on improving model generalization.
+* **Visual Content Generation**: Developing generative models for image and video content creation, editing, and enhancement, with an emphasis on controllability, fidelity, and generalization.
 
-- **Few-shot Learning**: Developing methods for efficient learning from limited data, focusing on techniques like metric learning, prompt tuning, and cross-modal transfer to enhance data efficiency.
-
-- **Hypergraph Learning**: Investigating hypergraph-based models to capture high-order relationships and improve representation power, structural consistency, and scalability in complex learning systems.
-
+* **Hypergraph Learning**: Investigating hypergraph-based models to capture high-order relationships, enhance representation learning, and improve structural modeling in complex data.
 
 
 News
 ---------------
-- *I have set up a [Blog Site](https://guohuan-xie.github.io), welcome everyone to visit!*
+- 2026.06 *I graduated from Nankai University.*
+- 2025.05 *I have set up a [Blog Site](https://guohuan-xie.github.io), welcome everyone to visit!*
+
 
 Research Experience
 --------------
@@ -71,6 +71,7 @@ Research Experience
 Publications
 --------------
 <div style="display: flex; align-items: center;">
+    <span style="position: absolute; top: 0; left: 0; background-color: #2b6cb0; color: #fff; font-size: 11px; font-weight: bold; padding: 4px 8px; line-height: 1.2; z-index: 1;">under review</span>
     <img src="images/syn4seg.png" alt="Syn4Seg" width="200" height="100" style="margin-right: 20px;">
     <div>
         <strong>Make It Up: Fake Images, Real Gains in Generalized Few-shot Semantic Segmentation</strong><br>
@@ -81,14 +82,16 @@ Publications
             <a href="https://openreview.net/profile?id=~Le_Zhang3" target="_blank">Le Zhang</a>,
             <a href="https://mmcheng.net/" target="_blank">Ming-Ming Cheng</a>, and
             <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>&dagger;
-        </i><br>
-        We propose Syn4Seg, a generation-enhanced framework for generalized few-shot semantic segmentation that expands novel-class coverage with diverse synthetic images, support-guided pseudo-label enhancement, and SAM-based boundary refinement. Experiments on PASCAL-5i and COCO-20i show consistent improvements in both 1-shot and 5-shot settings while maintaining strong base-class performance.<br>
-        <a href="https://arxiv.org/pdf/2603.27206"><em>[arXiv]</em></a>
+        </i>
+        <a href="https://arxiv.org/pdf/2603.27206"><em>[arXiv]</em></a><em>[Code]</em><em>[Demo]</em>
     </div>
 </div>
 <br>
  <div style="display: flex; align-items: center;">
-    <img src="images/vpssurvey.png" alt="DSP" width="200" height="100" style="margin-right: 20px;">
+    <div style="position: relative; margin-right: 20px; flex-shrink: 0;">
+        <span style="position: absolute; top: 0; left: 0; background-color: #2b6cb0; color: #fff; font-size: 11px; font-weight: bold; padding: 4px 8px; line-height: 1.2; z-index: 1;">CSUR under review</span>
+        <img src="images/vpssurvey.png" alt="VSP Survey" width="200" height="100">
+    </div>
     <div>
         <strong>A Comprehensive Survey on Video Scene Parsing: Advances, Challenges, and Prospects</strong><br>
         <i style="font-size: 13px;">
@@ -99,9 +102,8 @@ Publications
             <a href="https://scholar.google.com/citations?user=huWpVyEAAAAJ&hl=en" target="_blank">Ming-Ming Cheng</a>, 
             <a href="https://scholar.google.com.hk/citations?user=qd8Blw0AAAAJ&hl=zh-CN" target="_blank">Guolei Sun</a>, and
             <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>&dagger;
-        </i><br>
-        This survey comprehensively reviews Video Scene Parsing (VSP), encompassing VSS, VIS, VPS, VTS, and OVVS. It analyzes architectural advances from CNNs to Transformers, addresses core challenges like temporal consistency, and provides unified benchmarks, datasets, and future research perspectives.<br>
-        <a href="https://arxiv.org/abs/2506.13552"><em>[arXiv]</em></a>
+        </i>
+        <a href="https://arxiv.org/abs/2506.13552"><em>[arXiv]</em></a><em>[Code]</em><em>[Demo]</em>
     </div>
 </div>
 

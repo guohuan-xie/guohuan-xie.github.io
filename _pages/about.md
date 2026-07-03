@@ -23,6 +23,49 @@ redirect_from:
            text-decoration: none !important;
            color: #ca6f6f;
         }
+        .edu-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 16px;
+            margin: 1em 0;
+        }
+        .edu-card {
+            display: flex;
+            align-items: flex-start;
+            gap: 16px;
+            padding: 18px 20px;
+            background: #fff;
+            border: 1px solid #e8e8e8;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+        }
+        .edu-card img {
+            width: 56px;
+            height: 56px;
+            object-fit: contain;
+            flex-shrink: 0;
+        }
+        .edu-card-title {
+            font-weight: 700;
+            font-size: 15px;
+            color: #333;
+            margin-bottom: 4px;
+        }
+        .edu-card-date {
+            font-size: 13px;
+            color: #888;
+            margin-bottom: 6px;
+        }
+        .edu-card-desc {
+            font-size: 14px;
+            color: #555;
+            line-height: 1.5;
+        }
+        @media (max-width: 768px) {
+            .edu-grid {
+                grid-template-columns: 1fr;
+            }
+        }
     </style>
 </head>
 <body>
@@ -32,7 +75,7 @@ redirect_from:
 I am a first-year graduate student (2026–2028) at [Tsinghua University](https://www.tsinghua.edu.cn/), pursuing my Master's degree in Software Engineering. I am advised by Prof. [Yue Gao](https://www.thss.tsinghua.edu.cn/faculty/gaoyue.htm) at the [iMoon Lab](https://www.gaoyue.org/).
 
 
-Research Interests
+Research Interests 🔬
 --------
 * **Multimodal Large Models**: Exploring multimodal foundation models that integrate visual, textual, and other modalities, with a focus on cross-modal understanding, reasoning, and generation.
 
@@ -41,13 +84,41 @@ Research Interests
 * **Hypergraph Learning**: Investigating hypergraph-based models to capture high-order relationships, enhance representation learning, and improve structural modeling in complex data.
 
 
-News
+Education 🎓
+--------
+<div class="edu-grid">
+    <div class="edu-card">
+        <img src="images/tsinghua.png" alt="Tsinghua University logo">
+        <div>
+            <div class="edu-card-title">Tsinghua University</div>
+            <div class="edu-card-date">Sep 2026 –</div>
+            <div class="edu-card-desc">
+                M.S. in Software Engineering<br>
+                Advised by Prof. <a href="https://www.thss.tsinghua.edu.cn/faculty/gaoyue.htm" target="_blank"><em>Yue Gao</em></a> at <a href="https://www.gaoyue.org/" target="_blank"><em>iMoon Lab</em></a>
+            </div>
+        </div>
+    </div>
+    <div class="edu-card">
+        <img src="images/nku.png" alt="Nankai University logo">
+        <div>
+            <div class="edu-card-title">Nankai University</div>
+            <div class="edu-card-date">Sep 2022 – Jun 2026</div>
+            <div class="edu-card-desc">
+                B.E. in Software Engineering<br>
+                Rank 1/130, Outstanding Graduate, National Scholarship
+            </div>
+        </div>
+    </div>
+</div>
+
+
+News 📰
 ---------------
 * 2026.06 *I graduated from Nankai University. I was also featured in the university's [admissions publicity](https://mp.weixin.qq.com/s/ZD2FKxRdWY3RG6JCJP9aEg), where I appeared in the same promotional post as Zhang Yiming, founder of ByteDance. A surreal way to wrap up my undergraduate years! 🎓*
 - 2025.05 *I have set up a [Blog Site](https://guohuan-xie.github.io), welcome everyone to visit!*
 
 
-Research Experience
+Research Experience 🧪
 --------------
 <div style="display: flex; align-items: center;">
     <img src="images/tsinghua.png" alt="Tsinghua logo" width="60" height="60" style="margin-right: 20px;">
@@ -66,7 +137,7 @@ Research Experience
     </div>
 </div>
 
-Publications
+Publications 📚
 --------------
 <div style="display: flex; align-items: center;">
     <div style="position: relative; margin-right: 20px; flex-shrink: 0;">
@@ -127,7 +198,7 @@ Publications
     </div>
 </div>
 
-Projects
+Projects 💻
 --------
 <div style="display: flex; align-items: center;">
     <img src="images/Immortal_Verse.png" alt="Immortal Verse: The Journey of Li Bai" width="200" height="100" style="margin-right: 20px;">
@@ -140,11 +211,11 @@ Projects
     </div>
 </div>
 
-Academic Service
+Academic Service ✍️
 --------
 - *reviewer:IJCAI2026,ICMR2026*
 
-Awards
+Awards 🏆
 ---------------
 - *2026: Outstanding Graduate of Nankai University*
 - *2025: BYD Scholarship – 10,000 CNY*

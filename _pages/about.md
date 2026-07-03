@@ -84,7 +84,7 @@ Publications
             Siqi Li, and
             <a href="https://www.gaoyue.org/" target="_blank">Yue Gao</a>
         </i><br>
-        <a href="https://arxiv.org/pdf/2605.21858"><em>[arXiv]</em></a><a href="https://github.com/Mengqi-Lei/Hypergraph-as-Language"><em>[Code]</em></a>
+        <a href="https://arxiv.org/pdf/2605.21858"><em>[arXiv]</em></a><a href="https://github.com/Mengqi-Lei/Hypergraph-as-Language"><em>[Code]</em></a><em>[Demo]</em>
     </div>
 </div>
 <br>
@@ -129,17 +129,6 @@ Publications
 
 Projects
 --------
-<div style="display: flex; align-items: center;">
-    <img src="images/nkuassistant.jpg" alt="NKU-AI-Assistant" width="200" height="100" style="margin-right: 20px;">
-    <div>
-        <strong>NKU-AI-Assistant: Multi-Agent Conversational System with RAG</strong><br> 
-
-<br>
-      <a href="https://github.com/guohuan-xie/NKU-AI-Assistant"><em>[code]</em></a> 
-      <a href="https://guohuan-xie.github.io/files/nku.mp4"><em>[demo]</em></a>
-    </div>
-</div>
-
 <div style="display: flex; align-items: center;">
     <img src="images/Immortal_Verse.png" alt="Immortal Verse: The Journey of Li Bai" width="200" height="100" style="margin-right: 20px;">
     <div>

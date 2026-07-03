@@ -123,7 +123,7 @@ Internships 🧪
 <div style="display: flex; align-items: center;">
     <img src="images/nku.png" alt="Nankai logo" width="60" height="60" style="margin-right: 20px;">
     <div>
-        <strong>Nankai University (NKU)</strong><br>
+        <strong>Nankai University</strong><br>
         August 2024 -  October 2025<br>
         Research intern at <a href="https://mmcheng.net/"><em>Media Computing Lab</em></a>
     </div>

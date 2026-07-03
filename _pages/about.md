@@ -147,10 +147,10 @@ Academic Service
 Awards
 ---------------
 - *2026: Outstanding Graduate of Nankai University*
-- *2025:BYD Scholarship – 10,000 CNY*
-- *2024,2025:National Scholarship(1/127, 1/130, Top 0.8%) – 10,000 CNY*
-- *2024:Second Prize, National Level, China Mathematical Contest in Modeling（Top 2%）*
-- *2023:Gong-Neng Scholarship of Nankai University(5%) - 5000CNY*
+- *2025: BYD Scholarship – 10,000 CNY*
+- *2024,2025: National Scholarship(1/127, 1/130, Top 0.8%) – 10,000 CNY*
+- *2024: Second Prize, National Level, China Mathematical Contest in Modeling（Top 2%）*
+- *2023: Gong-Neng Scholarship of Nankai University(5%) - 5000CNY*
 - *2023,2024,2025: Outstanding Student of Nankai University*
 
 

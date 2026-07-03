@@ -71,6 +71,26 @@ Publications
 <div style="display: flex; align-items: center;">
     <div style="position: relative; margin-right: 20px; flex-shrink: 0;">
         <span style="position: absolute; top: 0; left: 0; background-color: #2b6cb0; color: #fff; font-size: 11px; font-weight: bold; padding: 4px 8px; line-height: 1.2; z-index: 1;">under review</span>
+        <img src="images/hyper_align_frame.png" alt="Hyper-Align framework" width="400" height="216" style="max-width: 100%; height: auto;">
+    </div>
+    <div>
+        <strong>Hypergraph as Language</strong><br>
+        <i style="font-size: 13px;">
+            <a href="https://mengqi-lei.github.io/" target="_blank">Mengqi Lei</a>,
+            <a href="https://guohuan-xie.github.io/" target="_blank"><strong>Guohuan Xie</strong></a>,
+            Shihui Ying,
+            Shaoyi Du,
+            Jun-Hai Yong,
+            Siqi Li, and
+            <a href="https://www.gaoyue.org/" target="_blank">Yue Gao</a>
+        </i><br>
+        <a href="https://arxiv.org/pdf/2605.21858"><em>[arXiv]</em></a><a href="https://github.com/Mengqi-Lei/Hypergraph-as-Language"><em>[Code]</em></a>
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: center;">
+    <div style="position: relative; margin-right: 20px; flex-shrink: 0;">
+        <span style="position: absolute; top: 0; left: 0; background-color: #2b6cb0; color: #fff; font-size: 11px; font-weight: bold; padding: 4px 8px; line-height: 1.2; z-index: 1;">under review</span>
         <img src="images/syn4seg.png" alt="Syn4Seg" width="200" height="100">
     </div>
     <div>
@@ -90,7 +110,7 @@ Publications
  <div style="display: flex; align-items: center;">
     <div style="position: relative; margin-right: 20px; flex-shrink: 0;">
         <span style="position: absolute; top: 0; left: 0; background-color: #2b6cb0; color: #fff; font-size: 11px; font-weight: bold; padding: 4px 8px; line-height: 1.2; z-index: 1;">under review</span>
-        <img src="images/vpssurvey.png" alt="VSP Survey" width="200" height="100">
+        <img src="images/vsp_evolution.png" alt="VSP evolution timeline" width="400" height="189" style="max-width: 100%; height: auto;">
     </div>
     <div>
         <strong>A Comprehensive Survey on Video Scene Parsing: Advances, Challenges, and Prospects</strong><br>
@@ -103,7 +123,7 @@ Publications
             <a href="https://scholar.google.com.hk/citations?user=qd8Blw0AAAAJ&hl=zh-CN" target="_blank">Guolei Sun</a>, and
             <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>&dagger;
         </i><br>
-        <a href="https://arxiv.org/abs/2506.13552"><em>[arXiv]</em></a><em>[Code]</em><em>[Demo]</em>
+        <a href="https://arxiv.org/abs/2506.13552"><em>[arXiv]</em></a><a href="https://github.com/guohuan-xie/Awesome-VSP"><em>[Code]</em></a><em>[Demo]</em>
     </div>
 </div>
 
@@ -113,7 +133,7 @@ Projects
     <img src="images/nkuassistant.jpg" alt="NKU-AI-Assistant" width="200" height="100" style="margin-right: 20px;">
     <div>
         <strong>NKU-AI-Assistant: Multi-Agent Conversational System with RAG</strong><br> 
-        NKU-AI-Assistant is a conversational AI system using multi-agent architecture and RAG. It features ChainMind, MetaAgent, and NeoGraph for dialogue, reasoning, and knowledge retrieval, respectively, supported by web, video, file parsing, and translation plugins for enhanced versatility.
+
 <br>
       <a href="https://github.com/guohuan-xie/NKU-AI-Assistant"><em>[code]</em></a> 
       <a href="https://guohuan-xie.github.io/files/nku.mp4"><em>[demo]</em></a>
@@ -124,7 +144,7 @@ Projects
     <img src="images/Immortal_Verse.png" alt="Immortal Verse: The Journey of Li Bai" width="200" height="100" style="margin-right: 20px;">
     <div>
         <strong>Immortal Verse: The Journey of Li Bai</strong><br> 
-       Immortal Verse is an RPG set in Tang-dynasty China, blending history, poetry, and AI-driven interaction. Players explore landscapes, complete quests, engage in battles, learn classical poetry, and generate poems with AI, enjoying immersive cultural experiences and intelligent dialogues centered on poet Li Bai.
+
 <br>
       <a href="https://github.com/xiemol/-Poetry-fairy-chanting"><em>[code]</em></a> 
       <a href="https://guohuan-xie.github.io/files/shixianyin.mp4"><em>[demo]</em></a>

@@ -114,7 +114,8 @@ Education 🎓
 
 News 📰
 ---------------
-* 2026.06 *I graduated from Nankai University. I was also featured in the university's [admissions publicity](https://mp.weixin.qq.com/s/ZD2FKxRdWY3RG6JCJP9aEg), where I appeared in the same promotional post as Zhang Yiming, founder of ByteDance. A surreal way to wrap up my undergraduate years! 🎓*
+* 2026.06 *I graduated from Nankai University. I was also featured in the university’s [admissions publicity](https://mp.weixin.qq.com/s/ZD2FKxRdWY3RG6JCJP9aEg), appearing in the same post as Zhang Yiming, founder of ByteDance. A memorable way to conclude my undergraduate journey! 🎓*
+
 - 2025.05 *I have set up a [Blog Site](https://guohuan-xie.github.io), welcome everyone to visit!*
 
 

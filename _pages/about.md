@@ -132,64 +132,8 @@ Internships 🧪
 
 Publications 📚
 --------------
-<div style="display: flex; align-items: center;">
-    <div style="position: relative; margin-right: 20px; flex-shrink: 0;">
-        <span style="position: absolute; top: 0; left: 0; background-color: #2b6cb0; color: #fff; font-size: 11px; font-weight: bold; padding: 4px 8px; line-height: 1.2; z-index: 1;">under review</span>
-        <img src="images/hyper_align_frame.png" alt="Hyper-Align framework" width="200" height="100">
-    </div>
-    <div>
-        <strong>Hypergraph as Language</strong><br>
-        <i style="font-size: 13px;">
-            <a href="https://mengqi-lei.github.io/" target="_blank">Mengqi Lei</a>,
-            <a href="https://guohuan-xie.github.io/" target="_blank"><strong>Guohuan Xie</strong></a>,
-            <a href="https://scholar.google.com/citations?user=dU6ePjIAAAAJ&hl=en" target="_blank">Shihui Ying</a>,
-            <a href="https://scholar.google.com/citations?user=r2bk4sQAAAAJ&hl=en" target="_blank">Shaoyi Du</a>,
-            <a href="https://scholar.google.com/citations?user=pBCA92wAAAAJ&hl=zh-CN" target="_blank">Jun-Hai Yong</a>,
-            Siqi Li, and
-            <a href="https://www.gaoyue.org/" target="_blank">Yue Gao</a>
-        </i><br>
-        <a href="https://arxiv.org/pdf/2605.21858"><em>[arXiv]</em></a><a href="https://github.com/Mengqi-Lei/Hypergraph-as-Language"><em>[Code]</em></a><em>[Demo]</em>
-    </div>
-</div>
-<br>
-<div style="display: flex; align-items: center;">
-    <div style="position: relative; margin-right: 20px; flex-shrink: 0;">
-        <span style="position: absolute; top: 0; left: 0; background-color: #2b6cb0; color: #fff; font-size: 11px; font-weight: bold; padding: 4px 8px; line-height: 1.2; z-index: 1;">under review</span>
-        <img src="images/syn4seg.png" alt="Syn4Seg" width="200" height="100">
-    </div>
-    <div>
-        <strong>Make It Up: Fake Images, Real Gains in Generalized Few-shot Semantic Segmentation</strong><br>
-        <i style="font-size: 13px;">
-            <a href="https://guohuan-xie.github.io/" target="_blank"><strong>Guohuan Xie</strong></a>,
-            <a href="https://openreview.net/profile?id=~Xin_He21" target="_blank">Xin He</a>,
-            <a href="https://openreview.net/profile?id=~Dingying_Fan1" target="_blank">Dingying Fan</a>,
-            <a href="https://openreview.net/profile?id=~Le_Zhang3" target="_blank">Le Zhang</a>,
-            <a href="https://mmcheng.net/" target="_blank">Ming-Ming Cheng</a>, and
-            <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>&dagger;
-        </i><br>
-        <a href="https://arxiv.org/pdf/2603.27206"><em>[arXiv]</em></a><em>[Code]</em><em>[Demo]</em>
-    </div>
-</div>
-<br>
- <div style="display: flex; align-items: center;">
-    <div style="position: relative; margin-right: 20px; flex-shrink: 0;">
-        <span style="position: absolute; top: 0; left: 0; background-color: #2b6cb0; color: #fff; font-size: 11px; font-weight: bold; padding: 4px 8px; line-height: 1.2; z-index: 1;">under review</span>
-        <img src="images/vsp_evolution.png" alt="VSP evolution timeline" width="200" height="100">
-    </div>
-    <div>
-        <strong>A Comprehensive Survey on Video Scene Parsing: Advances, Challenges, and Prospects</strong><br>
-        <i style="font-size: 13px;">
-            <a href="https://guohuan-xie.github.io/" target="_blank"><strong>Guohuan Xie</strong></a>, 
-            <a href="https://scholar.google.com/citations?user=Du1SYd0AAAAJ&hl=en" target="_blank">Syed Ariff Syed Hesham</a>, 
-            <a href="https://scholar.google.com.tw/citations?user=XpqqcAYAAAAJ&hl=zh-CN" target="_blank">Wenya Guo</a>, 
-            <a href="https://scholar.google.com.sg/citations?user=u7Gb-qwAAAAJ&hl=en" target="_blank">Bing Li</a>,
-            <a href="https://scholar.google.com/citations?user=huWpVyEAAAAJ&hl=en" target="_blank">Ming-Ming Cheng</a>, 
-            <a href="https://scholar.google.com.hk/citations?user=qd8Blw0AAAAJ&hl=zh-CN" target="_blank">Guolei Sun</a>, and
-            <a href="https://yun-liu.github.io/" target="_blank">Yun Liu</a>&dagger;
-        </i><br>
-        <a href="https://arxiv.org/abs/2506.13552"><em>[arXiv]</em></a><a href="https://github.com/guohuan-xie/Awesome-VSP"><em>[Code]</em></a><em>[Demo]</em>
-    </div>
-</div>
+{% include base_path %}
+{% include publications-list.html %}
 
 Projects 💻
 --------

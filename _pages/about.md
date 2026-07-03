@@ -43,7 +43,7 @@ Research Interests
 
 News
 ---------------
-- 2026.06 *I graduated from Nankai University.*
+- 2026.06 *I graduated from Nankai University. I was also featured in the university's [admissions publicity](https://mp.weixin.qq.com/s/ZD2FKxRdWY3RG6JCJP9aEg), shared the same promotional post with Zhang Yiming (Founder of ByteDance). A surreal way to wrap up my undergraduate years! 🎓*
 - 2025.05 *I have set up a [Blog Site](https://guohuan-xie.github.io), welcome everyone to visit!*
 
 
@@ -147,6 +147,7 @@ Projects
         2025 Migu M-Zone Most Valuable Application Award (3/1143, Top 0.3%) – 50,000 CNY.<br>
       <a href="https://github.com/xiemol/-Poetry-fairy-chanting"><em>[code]</em></a> 
       <a href="https://guohuan-xie.github.io/files/shixianyin.mp4"><em>[demo]</em></a>
+      <a href="https://mp.weixin.qq.com/s/HdM3v6LVJkctRbGEvhhE_g"><em>[report]</em></a>
     </div>
 </div>
 
@@ -156,6 +157,7 @@ Academic Service
 
 Awards
 ---------------
+- *2026: Outstanding Graduate of Nankai University*
 - *2025:BYD Scholarship – 10,000 CNY*
 - *2025:National Scholarship(1/130, Top 0.8%) – 10,000 CNY*
 - *2024:National Scholarship(1/127, Top 0.8%) – 10,000 CNY*

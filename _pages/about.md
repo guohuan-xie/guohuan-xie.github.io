@@ -71,7 +71,7 @@ Publications
 <div style="display: flex; align-items: center;">
     <div style="position: relative; margin-right: 20px; flex-shrink: 0;">
         <span style="position: absolute; top: 0; left: 0; background-color: #2b6cb0; color: #fff; font-size: 11px; font-weight: bold; padding: 4px 8px; line-height: 1.2; z-index: 1;">under review</span>
-        <img src="images/hyper_align_frame.png" alt="Hyper-Align framework" width="400" height="216" style="max-width: 100%; height: auto;">
+        <img src="images/hyper_align_frame.png" alt="Hyper-Align framework" width="200" height="100">
     </div>
     <div>
         <strong>Hypergraph as Language</strong><br>
@@ -110,7 +110,7 @@ Publications
  <div style="display: flex; align-items: center;">
     <div style="position: relative; margin-right: 20px; flex-shrink: 0;">
         <span style="position: absolute; top: 0; left: 0; background-color: #2b6cb0; color: #fff; font-size: 11px; font-weight: bold; padding: 4px 8px; line-height: 1.2; z-index: 1;">under review</span>
-        <img src="images/vsp_evolution.png" alt="VSP evolution timeline" width="400" height="189" style="max-width: 100%; height: auto;">
+        <img src="images/vsp_evolution.png" alt="VSP evolution timeline" width="200" height="100">
     </div>
     <div>
         <strong>A Comprehensive Survey on Video Scene Parsing: Advances, Challenges, and Prospects</strong><br>
@@ -143,9 +143,8 @@ Projects
 <div style="display: flex; align-items: center;">
     <img src="images/Immortal_Verse.png" alt="Immortal Verse: The Journey of Li Bai" width="200" height="100" style="margin-right: 20px;">
     <div>
-        <strong>Immortal Verse: The Journey of Li Bai</strong><br> 
-
-<br>
+        <strong>Immortal Verse: The Journey of Li Bai</strong><br>
+        2025 Migu M-Zone Most Valuable Application Award (3/1143, Top 0.3%) – 50,000 CNY.<br>
       <a href="https://github.com/xiemol/-Poetry-fairy-chanting"><em>[code]</em></a> 
       <a href="https://guohuan-xie.github.io/files/shixianyin.mp4"><em>[demo]</em></a>
     </div>
@@ -157,7 +156,6 @@ Academic Service
 
 Awards
 ---------------
-- *2025:Migu M-Zone Most Valuable Application Award(3/1143, Top 0.3%) – 50,000 CNY*
 - *2025:BYD Scholarship – 10,000 CNY*
 - *2025:National Scholarship(1/130, Top 0.8%) – 10,000 CNY*
 - *2024:National Scholarship(1/127, Top 0.8%) – 10,000 CNY*

@@ -121,21 +121,23 @@ News 📰
 
 Internships 🧪
 --------------
-<!-- <div style="display: flex; align-items: center;">
-    <img src="images/kling.png" alt="Kling logo" width="60" height="60" style="margin-right: 20px;">
-    <div>
+<div class="item-list">
+<!-- <div class="item-card">
+    <img class="item-card-logo" src="images/kling.png" alt="Kling logo">
+    <div class="item-card-body">
         <strong>Kling</strong><br>
         2025.05 – 2025.09<br>
         Research intern, advised by <a href="https://xinntao.github.io/" target="_blank"><em>Sainan Guo</em></a> and <a href="https://xinntao.github.io/" target="_blank"><em>Xintao Wang</em></a>
     </div>
 </div> -->
-<div style="display: flex; align-items: center;">
-    <img src="images/nku.png" alt="Nankai logo" width="60" height="60" style="margin-right: 20px;">
-    <div>
+<div class="item-card">
+    <img class="item-card-logo" src="images/nku.png" alt="Nankai logo">
+    <div class="item-card-body">
         <strong>Media Computing Lab</strong><br>
         2024.08 – 2025.10<br>
         Research assistant, advised by <a href="https://yun-liu.github.io/" target="_blank"><em>Yun Liu</em></a> and <a href="https://mmcheng.net/" target="_blank"><em>Ming-Ming Cheng</em></a>
     </div>
+</div>
 </div>
 
 Publications 📚
@@ -145,15 +147,19 @@ Publications 📚
 
 Projects 💻
 --------
-<div style="display: flex; align-items: center;">
-    <img src="images/Immortal_Verse.png" alt="Immortal Verse: The Journey of Li Bai" width="200" height="100" style="margin-right: 20px;">
-    <div>
+<div class="item-list">
+<div class="item-card">
+    <div class="item-card-thumb">
+        <img src="images/Immortal_Verse.png" alt="Immortal Verse: The Journey of Li Bai" width="200" height="100">
+    </div>
+    <div class="item-card-body">
         <strong>Immortal Verse: The Journey of Li Bai</strong><br>
         2025 Migu M-Zone Most Valuable Application Award (3/1143, Top 0.3%) – 50,000 CNY.<br>
       <a href="https://github.com/xiemol/-Poetry-fairy-chanting"><em>[Code]</em></a> 
       <a href="https://guohuan-xie.github.io/files/shixianyin.mp4"><em>[Demo]</em></a>
       <a href="https://epaper.tianjinwe.com/tjrb/html/2025-12/08/content_143080_2904075.htm"><em>[Report]</em></a>
     </div>
+</div>
 </div>
 
 Academic Service ✍️

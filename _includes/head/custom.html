@@ -14,7 +14,60 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
-
+<style>
+  .item-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 1em 0;
+  }
+  .item-card {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 18px 20px;
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  }
+  .item-card-logo {
+    width: 56px;
+    height: 56px;
+    object-fit: contain;
+    flex-shrink: 0;
+  }
+  .item-card-thumb {
+    position: relative;
+    flex-shrink: 0;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+  }
+  .item-card-thumb img {
+    width: 200px !important;
+    height: 100px !important;
+    max-width: none !important;
+    object-fit: fill;
+    display: block;
+  }
+  .item-card-badge {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #2b6cb0;
+    color: #fff;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 4px 8px;
+    line-height: 1.2;
+    z-index: 1;
+  }
+  .item-card-body {
+    min-width: 0;
+    flex: 1;
+  }
+</style>
 
 <!-- Support for MatJax -->
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>

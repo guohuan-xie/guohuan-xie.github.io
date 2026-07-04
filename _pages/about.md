@@ -122,10 +122,18 @@ News 📰
 Internships 🧪
 --------------
 <div style="display: flex; align-items: center;">
+    <img src="images/kling.png" alt="Kling logo" width="60" height="60" style="margin-right: 20px;">
+    <div>
+        <strong>Kling (Kuaishou Technology)</strong><br>
+        2025.05 – 2025.09<br>
+        Research intern, advised by <a href="https://xinntao.github.io/" target="_blank"><em>Sainan Guo</em></a> and <a href="https://xinntao.github.io/" target="_blank"><em>Xintao Wang</em></a>
+    </div>
+</div>
+<div style="display: flex; align-items: center;">
     <img src="images/nku.png" alt="Nankai logo" width="60" height="60" style="margin-right: 20px;">
     <div>
         <strong>Nankai University</strong><br>
-        August 2024 -  October 2025<br>
+        2024.08 – 2025.10<br>
         Research intern at <a href="https://mmcheng.net/"><em>Media Computing Lab</em></a>
     </div>
 </div>

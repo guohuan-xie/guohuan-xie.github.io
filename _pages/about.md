@@ -72,7 +72,7 @@ redirect_from:
 <h1 class="main-heading">Welcome to my academic base!</h1>
 </body>
 </html>
-I am a first-year graduate student (2026–2028) at [Tsinghua University](https://www.tsinghua.edu.cn/), pursuing my Master's degree in Software Engineering. I am advised by Prof. [Yue Gao](https://www.thss.tsinghua.edu.cn/faculty/gaoyue.htm) at the [iMoon Lab](https://www.gaoyue.org/).
+I am a first-year graduate student (2026–2028) at [Tsinghua University](https://www.tsinghua.edu.cn/), pursuing my Master's degree in Software Engineering advised by Prof. [Yue Gao](https://www.thss.tsinghua.edu.cn/faculty/gaoyue.htm) at the [iMoon Lab](https://www.gaoyue.org/).
 
 
 Research Interests 🔬

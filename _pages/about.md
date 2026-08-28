@@ -135,7 +135,7 @@ Internships 🧪
     <div class="item-card-body">
         <strong>Media Computing Lab</strong><br>
         2024.08 – 2025.10<br>
-        Research assistant, advised by <a href="https://yun-liu.github.io/" target="_blank"><em>Yun Liu</em></a> and <a href="https://mmcheng.net/" target="_blank"><em>Ming-Ming Cheng</em></a>
+        Research intern, advised by <a href="https://yun-liu.github.io/" target="_blank"><em>Yun Liu</em></a> and <a href="https://mmcheng.net/" target="_blank"><em>Ming-Ming Cheng</em></a>
     </div>
 </div>
 </div>

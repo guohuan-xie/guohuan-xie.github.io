@@ -114,9 +114,13 @@ Education 🎓
 
 News 📰
 ---------------
+* 2026.09.18 *Our paper, "A Comprehensive Survey on Video Scene Parsing: Advances, Challenges, and Prospects," was accepted by ACM Computing Surveys (CSUR)!*
+
+* 2026.08.21 *Our paper, "EvalMem: An Operation-Level Diagnostic Framework for Long-Term Memory Systems," was accepted to Findings of EMNLP 2026!*
+
 * 2026.06 *I graduated from Nankai University. I was also featured in the university’s [admissions publicity](https://mp.weixin.qq.com/s/ZD2FKxRdWY3RG6JCJP9aEg), appearing in the same post as Zhang Yiming, founder of ByteDance. A memorable way to conclude my undergraduate journey! 🎓*
 
-- 2025.05 *I have set up a [Blog Site](https://guohuan-xie.github.io), welcome everyone to visit!*
+* 2025.05 *I have set up a [Blog Site](https://guohuan-xie.github.io), welcome everyone to visit!*
 
 
 Internships 🧪
@@ -174,7 +178,6 @@ Awards 🏆
 - *2024: Second Prize, National Level, China Mathematical Contest in Modeling（Top 2%）*
 - *2023: Gong-Neng Scholarship of Nankai University(5%) - 5000CNY*
 - *2023,2024,2025: Outstanding Student of Nankai University*
-
 
 
 

@@ -114,9 +114,9 @@ Education 🎓
 
 News 📰
 ---------------
-* 2026.09 *Two papers were accepted to NeurIPS 2026!*
-
 * 2026.09 *One paper was accepted to a NeurIPS 2026 workshop!*
+
+* 2026.09 *Two papers were accepted to NeurIPS 2026!*
 
 * 2026.09 *One paper was accepted by ACM Computing Surveys (CSUR)!*
 
@@ -182,4 +182,3 @@ Awards 🏆
 - *2024: Second Prize, National Level, China Mathematical Contest in Modeling（Top 2%）*
 - *2023: Gong-Neng Scholarship of Nankai University(5%) - 5000CNY*
 - *2023,2024,2025: Outstanding Student of Nankai University*
-

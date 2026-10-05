@@ -172,7 +172,7 @@ Projects 💻
 
 Academic Service ✍️
 --------
-- *reviewer:IJCAI2026,ICMR2026*
+- *reviewer:IJCAI2026,ICMR2026,ICLR2027*
 
 Awards 🏆
 ---------------

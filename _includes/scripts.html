@@ -1,3 +1,27 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+{% if page.mermaid %}
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+
+  const diagrams = Array.from(document.querySelectorAll("pre > code.language-mermaid"), (code) => {
+    const container = document.createElement("div");
+    container.className = "mermaid";
+    container.textContent = code.textContent;
+    code.parentElement.replaceWith(container);
+    return container;
+  });
+
+  if (diagrams.length > 0) {
+    mermaid.initialize({
+      startOnLoad: false,
+      securityLevel: "strict",
+      theme: "default",
+      flowchart: { useMaxWidth: true, htmlLabels: true }
+    });
+    await mermaid.run({ nodes: diagrams });
+  }
+</script>
+{% endif %}
+
 {% include analytics.html %}

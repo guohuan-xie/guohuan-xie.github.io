@@ -114,7 +114,7 @@ Education 🎓
 
 News 📰
 ---------------
-* 2026.09 *One paper was accepted to a NeurIPS 2026 workshop!*
+* 2026.09 *One paper was accepted to a NeurIPS 2026 workshop as an **Oral** presentation!*
 
 * 2026.09 *Two papers were accepted to NeurIPS 2026!*
 

@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Fetch(domain:mengqi-lei.github.io)"
+      "Fetch(domain:mengqi-lei.github.io)",
+      "Fetch(domain:mapmyvisitors.com)",
+      "Fetch(domain:revolvermaps.de)",
+      "Fetch(domain:flagcounter.com)",
+      "Fetch(domain:whos.amung.us)"
     ]
   }
 }

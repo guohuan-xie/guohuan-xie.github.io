@@ -1,0 +1,59 @@
+{% comment %}
+  Visitor statistics: cumulative visit counter plus a world map of visitor
+  origins. Configure under `visitor_stats` in _config.yml.
+{% endcomment %}
+
+{% assign vs = site.visitor_stats %}
+{% assign is_home = false %}
+{% if page.url == "/" or page.url == "/index.html" or page.url == "" %}
+  {% assign is_home = true %}
+{% endif %}
+
+{% assign has_map = false %}
+{% if vs.map.provider == "amung" and vs.map.amung.site_key and vs.map.amung.site_key != "" %}
+  {% assign has_map = true %}
+{% endif %}
+
+{% assign has_counter = false %}
+{% if vs.counter.provider == "busuanzi" %}
+  {% assign has_counter = true %}
+{% endif %}
+
+{% assign render = true %}
+{% if vs.enabled != true %}
+  {% assign render = false %}
+{% endif %}
+{% if vs.homepage_only and is_home == false %}
+  {% assign render = false %}
+{% endif %}
+{% if vs.production_only and jekyll.environment != "production" %}
+  {% assign render = false %}
+{% endif %}
+{% if has_map == false and has_counter == false %}
+  {% assign render = false %}
+{% endif %}
+
+{% if render %}
+<div class="page__footer-visitors">
+  {% if vs.label and vs.label != "" %}
+  <div class="page__footer-visitors-label">{{ vs.label }}</div>
+  {% endif %}
+  {% if has_counter %}
+  <div class="page__footer-visitors-counter">
+    <span class="page__footer-visitors-item"><span id="busuanzi_container_site_pv">{{ vs.counter.busuanzi.site_pv_label | default: "Total views" }} <span id="busuanzi_value_site_pv"></span></span></span>
+    <span class="page__footer-visitors-sep">&middot;</span>
+    <span class="page__footer-visitors-item"><span id="busuanzi_container_site_uv">{{ vs.counter.busuanzi.site_uv_label | default: "Unique visitors" }} <span id="busuanzi_value_site_uv"></span></span></span>
+  </div>
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  {% endif %}
+  {% if has_map %}
+  <div class="page__footer-visitors-map">
+    <script id="_wau_map">
+      var _wau = _wau || [];
+      _wau.push(["map", "{{ vs.map.amung.site_key }}", "{{ vs.map.amung.widget_id | default: "map" }}", "{{ vs.map.amung.width | default: "250" }}", "{{ vs.map.amung.height | default: "125" }}", "{{ vs.map.amung.theme | default: "night" }}", "{{ vs.map.amung.pin_style | default: "cross-pink" }}"]);
+    </script>
+    <script async src="https://waust.at/m.js"></script>
+  </div>
+  {% endif %}
+</div>
+{% endif %}

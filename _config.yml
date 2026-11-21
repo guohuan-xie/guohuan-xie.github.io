@@ -152,6 +152,45 @@ analytics:
     tracking_id          :
 
 
+# Visitor Statistics (rendered at the very bottom of the footer)
+#
+# Two independent parts, both free and requiring no account:
+#   - counter: cumulative visit count, powered by Busuanzi (不蒜子). Works
+#     immediately, nothing to configure.
+#   - map: world map of where visitors come from, powered by
+#     whos.amung.us. Needs a one-time site key (see below).
+#
+# Map setup (about 30 seconds, no signup):
+#   1. Open https://whos.amung.us/getstarted/
+#   2. Under the "Map" widget, copy the snippet they generate. It looks like
+#      _wau.push(["map", "vpx6vq8b75", "___", "250", "125", "night", "cross-pink"])
+#   3. Paste the second value ("vpx6vq8b75" in the example) into
+#      map.amung.site_key, and the third value ("___") into map.amung.widget_id.
+#
+# Either part can be disabled on its own; if both are off, nothing renders.
+visitor_stats:
+  enabled                  : true   # master switch
+  homepage_only            : true   # true: only the homepage (/), false: every page
+  production_only          : true   # true: skip `jekyll serve` previews so local visits are not counted
+  label                    : "Visitors"  # caption above the widgets, "" to hide it
+
+  counter:
+    provider               : "busuanzi"  # "busuanzi" or "none"
+    busuanzi:
+      site_pv_label        : "Total views"  # cumulative page views
+      site_uv_label        : "Unique visitors"
+
+  map:
+    provider               : "amung"  # "amung" (whos.amung.us) or "none"
+    amung:
+      site_key             : "8tzn0hgfnd"  # from https://whos.amung.us/getstarted/
+      widget_id            : "cfy"         # from the same snippet
+      width                : "250"
+      height               : "125"
+      theme                : "night"       # night / day
+      pin_style            : "cross-pink"  # pin marker style
+
+
 # Reading Files
 include:
   - .htaccess

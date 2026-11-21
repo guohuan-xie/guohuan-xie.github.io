@@ -111,6 +111,17 @@
     animation: none !important;
     -webkit-animation: none !important;
   }
+  /* the widget hardcodes a 10px marker and paints it with a white
+     drop-shadow halo; drop the halo and allow a smaller marker */
+  .page__footer-visitors-map img[width="10"][height="10"] {
+    filter: none !important;
+    -webkit-filter: none !important;
+    {% assign wau_pin_size = site.visitor_stats.map.amung.pin_size %}
+    {% if wau_pin_size and wau_pin_size != "" %}
+    width: {{ wau_pin_size }}px !important;
+    height: {{ wau_pin_size }}px !important;
+    {% endif %}
+  }
   .page__footer-visitors img,
   .page__footer-visitors canvas,
   .page__footer-visitors svg,

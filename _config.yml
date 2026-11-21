@@ -189,6 +189,7 @@ visitor_stats:
       height               : "125"
       theme                : "night"       # night / day
       pin_style            : "default-red"  # dot marker; shapes: default/cross/square/star/diamond/triangle/target/heart/spinner, colors: red/pink/blue/green/orange/black/yellow/brown
+      pin_size             : "6"   # marker size in px (the widget hardcodes 10); set to "" to keep the default
 
 
 # Reading Files

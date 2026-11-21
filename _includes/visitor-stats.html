@@ -48,12 +48,33 @@
   {% endif %}
   {% if has_map %}
   {% assign wau_widget_id = vs.map.amung.widget_id | default: "map" %}
-  <div class="page__footer-visitors-map">
+  {% assign wau_h = vs.map.amung.height | default: "125" %}
+  <div class="page__footer-visitors-map" id="visitor-map" style="min-height: {{ wau_h }}px">
     <script id="_wau{{ wau_widget_id }}">
       var _wau = _wau || [];
-      _wau.push(["map", "{{ vs.map.amung.site_key }}", "{{ wau_widget_id }}", "{{ vs.map.amung.width | default: "250" }}", "{{ vs.map.amung.height | default: "125" }}", "{{ vs.map.amung.theme | default: "night" }}", "{{ vs.map.amung.pin_style | default: "cross-pink" }}"]);
+      _wau.push(["map", "{{ vs.map.amung.site_key }}", "{{ wau_widget_id }}", "{{ vs.map.amung.width | default: "250" }}", "{{ wau_h }}", "{{ vs.map.amung.theme | default: "night" }}", "{{ vs.map.amung.pin_style | default: "cross-pink" }}"]);
     </script>
-    <script async src="https://waust.at/m.js"></script>
+    <script>
+      (function () {
+        var box = document.getElementById("visitor-map");
+        var started = false;
+        function load() {
+          if (started || !box) return;
+          started = true;
+          var s = document.createElement("script");
+          s.async = true;
+          s.src = "https://waust.at/m.js";
+          document.body.appendChild(s);
+        }
+        if (!("IntersectionObserver" in window)) { load(); return; }
+        var io = new IntersectionObserver(function (entries) {
+          for (var i = 0; i < entries.length; i++) {
+            if (entries[i].isIntersecting) { io.disconnect(); load(); return; }
+          }
+        }, { rootMargin: "300px 0px" });
+        io.observe(box);
+      })();
+    </script>
   </div>
   {% endif %}
 </div>

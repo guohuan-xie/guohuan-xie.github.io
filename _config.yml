@@ -188,7 +188,7 @@ visitor_stats:
       width                : "250"
       height               : "125"
       theme                : "night"       # night / day
-      pin_style            : "cross-pink"  # pin marker style
+      pin_style            : "default-red"  # dot marker; shapes: default/cross/square/star/diamond/triangle/target/heart/spinner, colors: red/pink/blue/green/orange/black/yellow/brown
 
 
 # Reading Files

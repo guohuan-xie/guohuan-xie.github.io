@@ -88,7 +88,7 @@ Education 🎓
 --------
 <div class="edu-grid">
     <div class="edu-card">
-        <img src="images/tsinghua.png" alt="Tsinghua University logo">
+        <img src="images/tsinghua.png" alt="Tsinghua University logo" loading="lazy" decoding="async">
         <div>
             <div class="edu-card-title">Tsinghua University</div>
             <div class="edu-card-date">Sep 2026 –</div>
@@ -99,7 +99,7 @@ Education 🎓
         </div>
     </div>
     <div class="edu-card">
-        <img src="images/nku.png" alt="Nankai University logo">
+        <img src="images/nku.png" alt="Nankai University logo" loading="lazy" decoding="async">
         <div>
             <div class="edu-card-title">Nankai University</div>
             <div class="edu-card-date">Sep 2022 – Jun 2026</div>
@@ -131,7 +131,7 @@ Internships 🧪
 --------------
 <div class="item-list">
 <!-- <div class="item-card">
-    <img class="item-card-logo" src="images/kling.png" alt="Kling logo">
+    <img class="item-card-logo" src="images/kling.png" alt="Kling logo" loading="lazy" decoding="async">
     <div class="item-card-body">
         <strong>Kling</strong><br>
         2025.05 – 2025.09<br>
@@ -139,7 +139,7 @@ Internships 🧪
     </div>
 </div> -->
 <div class="item-card">
-    <img class="item-card-logo" src="images/nku.png" alt="Nankai logo">
+    <img class="item-card-logo" src="images/nku.png" alt="Nankai logo" loading="lazy" decoding="async">
     <div class="item-card-body">
         <strong>Media Computing Lab</strong><br>
         2024.08 – 2025.10<br>
@@ -158,7 +158,7 @@ Projects 💻
 <div class="item-list">
 <div class="item-card">
     <div class="item-card-thumb">
-        <img src="images/Immortal_Verse.png" alt="Immortal Verse: The Journey of Li Bai" width="200" height="100">
+        <img src="images/Immortal_Verse.png" alt="Immortal Verse: The Journey of Li Bai" width="200" height="100" loading="lazy" decoding="async">
     </div>
     <div class="item-card-body">
         <strong>Immortal Verse: The Journey of Li Bai</strong><br>

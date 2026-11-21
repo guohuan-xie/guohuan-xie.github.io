@@ -47,10 +47,11 @@
   <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   {% endif %}
   {% if has_map %}
+  {% assign wau_widget_id = vs.map.amung.widget_id | default: "map" %}
   <div class="page__footer-visitors-map">
-    <script id="_wau_map">
+    <script id="_wau{{ wau_widget_id }}">
       var _wau = _wau || [];
-      _wau.push(["map", "{{ vs.map.amung.site_key }}", "{{ vs.map.amung.widget_id | default: "map" }}", "{{ vs.map.amung.width | default: "250" }}", "{{ vs.map.amung.height | default: "125" }}", "{{ vs.map.amung.theme | default: "night" }}", "{{ vs.map.amung.pin_style | default: "cross-pink" }}"]);
+      _wau.push(["map", "{{ vs.map.amung.site_key }}", "{{ wau_widget_id }}", "{{ vs.map.amung.width | default: "250" }}", "{{ vs.map.amung.height | default: "125" }}", "{{ vs.map.amung.theme | default: "night" }}", "{{ vs.map.amung.pin_style | default: "cross-pink" }}"]);
     </script>
     <script async src="https://waust.at/m.js"></script>
   </div>
